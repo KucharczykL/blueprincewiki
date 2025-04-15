@@ -2,4 +2,6 @@
 tags:
   - people
 ---
-Grandson of [[Herbert S. Sinclair]].
+Son of [[Herbert S. Sinclair]] and [[Daniel]] [^1].
+
+[^1]: [[Letter with number 4]]
