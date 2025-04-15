@@ -1,5 +1,5 @@
-![[periodic_table.avif]]
-![[periodic_table_2.avif]]
+![[periodic_table.jpg]]
+![[periodic_table_2.jpg]]
 
 The numbers correspond to these elements:
 

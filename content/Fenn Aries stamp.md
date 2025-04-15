@@ -1,1 +1,1 @@
-![[fenn_aries_stamp.avif]]
+![[fenn_aries_stamp.jpg]]
