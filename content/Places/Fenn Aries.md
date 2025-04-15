@@ -1,3 +1,5 @@
+>In fog we are lost, in fire we are found
+
 Also known as The Grand Realm of Fenn Aries. [^4]
 
 The kingdom[^1] [^2] where the game takes place. Its ZIP code is 63022. [^3]
