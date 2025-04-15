@@ -1,0 +1,3 @@
+- [[Herbert S. Sinclair]]
+- [[Marion Marigold]]
+- [[Simon]] ?? (in [[Marigold wins herald literary honor]] it says that Marion is the closest living relative)
