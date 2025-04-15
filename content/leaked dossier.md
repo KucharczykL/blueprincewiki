@@ -1,0 +1,1 @@
+Names both [[Caleb Manning]] and [[Phillip White]] to discredit them. Leaked on [[86-11-11]].

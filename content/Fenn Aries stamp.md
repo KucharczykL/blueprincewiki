@@ -1,0 +1,1 @@
+![[fenn_aries_stamp.avif]]
