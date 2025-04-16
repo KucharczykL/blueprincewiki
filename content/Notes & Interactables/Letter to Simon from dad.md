@@ -1,4 +1,4 @@
-The letter was found in [[Mail Room]]. Has [[Fenn Aries stamp]] affixed.
+The letter was found in [[Mail Room]]. Has [[Fenn Aries Stamp]] affixed.
 
 The sender address is:
 

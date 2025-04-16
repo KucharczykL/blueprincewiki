@@ -1,10 +1,33 @@
+---
+tags:
+---
+
+
 - why did Marion split with her publisher?
 - who were the first two prominent authors who split from Ruffington Press?
 - how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the [[campside_tent.jpg]]?
 - who leaked the dossier naming [[Caleb Manning]] and [[Phillip White]]?
 - why/where did Marion disappear to?
-- what did she do that was praiseworthy (as said in [[Letter with number 4]])
+- what did she do that was praiseworthy (as said in [[Red Letter No. 4]])
 - who was arrested for criminal conspiracy as mentioned in [[Publisher and author detained by Red Guard, questioned]]
 - what is the deal with [[Ruffington]] and [[Reddington]]?
 - who is [[Bridgette]]?
 - who is [[Daniel]]?
+- [ ] connect [[Boiler Room]] with [[Laboratory]]
+- [ ] connect [[Boiler Room]] with [[Pump Room]]
+- [ ] connect [[Boiler Room]] with [[Garage]]
+- [ ] connect [[Boiler Room]] with [[Laundry Room]]
+- [ ] connect [[Boiler Room]] with [[Furnace]]
+- [ ] connect [[Pump Room]] with [[The Pool]]
+- [ ] connect [[Pump Room]] with [[Aquarium]]
+- [ ] connect [[Pump Room]] with [[Kitchen]]
+- [ ] connect [[Pump Room]] with [[Greenhouse]]
+- what other places outside the house does [[Pump Room]] connect to?
+- what happened during the [[Trinsdale]] bombing?
+- borrow books from [[Library]]:
+	- [ ] [[Sightseer's Guide to Reddington]]
+	- [ ] [[Swim Bird]]
+	- [ ] [[The Fixed Stars]]
+	- [ ] [[History of Orindia]]
+	- [ ] [[EPCW Pump System User Manual]]
+	- [x] [[Drafting Strategy - Architectural Digest Vol. 3]]

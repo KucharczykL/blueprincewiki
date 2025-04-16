@@ -4,4 +4,4 @@ tags:
 ---
 Son of [[Herbert S. Sinclair]] and [[Daniel]] [^1].
 
-[^1]: [[Letter with number 4]]
+[^1]: [[Red Letter No. 4]]

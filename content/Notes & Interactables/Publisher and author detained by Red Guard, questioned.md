@@ -4,7 +4,7 @@ Published on [[86-11-11|Nov 11 '86]]
 
 Publisher and author detained by [[Red Guard]], questioned
 
-[[Caleb Manning]] and his publisher [[Phillip White]] were two of three dozen names that appeared on a leaked dossier naming them a "person of interest" in the [[Trinsdale bombing]] that killed four people last Tuesday.
+[[Caleb Manning]] and his publisher [[Phillip White]] were two of three dozen names that appeared on a leaked dossier naming them a "person of interest" in the [[Trinsdale]] bombing that killed four people last Tuesday.
 
 Although, no group has come forth to officially take responsibility of the attack, it is widely believed by the authorities to be the work of the insurgent group [[RLCF]] who also call themselves "The Children of Black Water".
 

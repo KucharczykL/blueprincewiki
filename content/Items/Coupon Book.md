@@ -1,0 +1,1 @@
+Save 1 [[Coin]] on each purchase you make in [[The Estate]].

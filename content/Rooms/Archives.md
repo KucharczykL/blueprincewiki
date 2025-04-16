@@ -2,4 +2,6 @@
 tags:
   - rooms
 ---
-[[Newspaper clippings]] can be found here.
+Drafting the rooms prevents you from seeing the third option until the end of the current day.
+# Interactable
+- [[Newspaper Clippings]]

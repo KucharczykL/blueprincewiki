@@ -1,1 +1,0 @@
-An award for book illustration authors. Awarded to [[Marion Marigold]] for [[Swim Bird]] and [[Red Prince]].

@@ -1,0 +1,1 @@
+Statistics of various kinds: playtime, total days, longest day, average day, steps taken, keys turned, gems used, gold spent, allowance, total stars, total rooms drafted, bedrooms drafted, hallways drafted, green rooms drafted, shops drafted, red rooms drafted, billiard rooms, darboards solved, parlors drafted, parlors solved, upgrade disks, red letters.

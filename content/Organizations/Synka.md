@@ -5,3 +5,4 @@ A company:
 - manufactures:
 	- the safe that can be found in [[Boudoir]]
 	- the [ink](images/synka_ink.png) in [[Office]]
+	- the camera in [[Photo of Herbert, Selfie]]

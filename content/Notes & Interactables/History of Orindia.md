@@ -1,0 +1,1 @@
+A book by [[Caleb Manning]], can be borrowed in [[Library]].

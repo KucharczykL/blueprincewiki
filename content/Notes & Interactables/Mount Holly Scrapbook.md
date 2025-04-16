@@ -1,0 +1,1 @@
+Most drafted rooms, most paid for rooms, most time spent in, contraptions made, stamp collection (in total 8), largest purchase, most avoided room, 

@@ -1,0 +1,1 @@
+Open the car trunk in [[Garage]].
