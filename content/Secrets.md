@@ -1,7 +1,10 @@
 - why did Marion split with her publisher?
 - who were the first two prominent authors who split from Ruffington Press?
-- how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the doll in Simon's tent?
+- how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the [[campside_tent.jpg]]?
 - who leaked the dossier naming [[Caleb Manning]] and [[Phillip White]]?
 - why/where did Marion disappear to?
 - what did she do that was praiseworthy (as said in [[Letter with number 4]])
 - who was arrested for criminal conspiracy as mentioned in [[Publisher and author detained by Red Guard, questioned]]
+- what is the deal with [[Ruffington]] and [[Reddington]]?
+- who is [[Bridgette]]?
+- who is [[Daniel]]?

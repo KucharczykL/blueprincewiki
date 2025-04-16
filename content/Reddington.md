@@ -1,0 +1,1 @@
+A place mentioned in [[note for Bridgette about books]]. Conspicuously similar to [[Ruffington]] for some reason.
