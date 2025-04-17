@@ -1,0 +1,1 @@
+A permanent upgrade that unlocks [[Allowance]]. It also has a [[Gas Valve]].

@@ -4,3 +4,4 @@
 - [[Manning and White at Press Function]]
 - [[No trace is discovered of Synka heiress but search continues]]
 - [[Publisher and author detained by Red Guard, questioned]]
+- [[Priceless jewels stolen in dramatic Royal Museum heist]]

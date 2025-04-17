@@ -1,0 +1,1 @@
+Stolen in a heist from [[Royal Museum]].

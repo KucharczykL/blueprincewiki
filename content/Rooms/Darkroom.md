@@ -18,3 +18,4 @@ A red room that appears near C4, L8, R4, C8, RM3, C7. Upon entering the lights g
 - [[Photo of Two Men]]
 - [[Photo of Man]]
 - [[Print Notes]]
+- [[Photo of Clara Epsen]]

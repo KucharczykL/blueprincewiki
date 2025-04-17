@@ -1,0 +1,1 @@
+Starts one of the 4 braziers in [[The Grounds]].

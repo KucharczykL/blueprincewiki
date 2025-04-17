@@ -1,6 +1,7 @@
 ---
 tags:
   - people
+aliases:
 ---
 Son of [[Herbert S. Sinclair]] and [[Daniel]] [^1].
 

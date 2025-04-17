@@ -1,0 +1,1 @@
+A black silk sleep mask. The first time you enter each bedroom with the Sleep Mask, gain 5 [[Steps]].

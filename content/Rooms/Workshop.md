@@ -1,6 +1,7 @@
 # Items
 - [[Lockpick Kit]]
-- [[music sheet]]
+# Interactable
+- [[Music Sheet 8]]
 
 # Contraptions
 - [[Shovel]] + [[Broken Lever]] + ???

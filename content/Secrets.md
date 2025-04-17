@@ -31,3 +31,8 @@ tags:
 	- [ ] [[History of Orindia]]
 	- [ ] [[EPCW Pump System User Manual]]
 	- [x] [[Drafting Strategy - Architectural Digest Vol. 3]]
+- [ ] how to unlock [[Her Ladyship's Diary]]
+- [ ] what's with the tunnel under [[The Grounds]]? seems like I should be able to light the torches
+- [ ] there's also a barricaded door near the terrace with braziers in [[The Grounds]]
+- [ ] there's another locked door in [[Private Drive]]
+- [ ] how to replace the statue of Orinda with the status of Rynna in [[Cloister]] as mentioned in [[Gardener's Logbook]]?

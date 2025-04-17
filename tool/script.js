@@ -9,9 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalTitle = document.getElementById('modal-title');
     const closeModalButton = document.querySelector('.close-button');
     const submitRoomsButton = document.getElementById('submit-rooms');
-    const roomInputs = {}
+    const roomInputs = [document.getElementById('room1'), document.getElementById('room2'), document.getElementById('room3')];
 
-    const ROWS = 9;
+    const ROWS = 10;
     const COLS = 5;
     let selectedCell = null;
     let roomData = {}; // { "R1C1": },...],... }
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function updateProbabilityList(cellId) {
         probabilityList.innerHTML = '';
-        const visits = roomData[cellId] || 0;
+        const visits = roomData[cellId] || [];
         if (visits.length === 0) {
             probabilityList.innerHTML = '<li>No data logged for this cell.</li>';
             return;
@@ -132,10 +132,12 @@ document.addEventListener('DOMContentLoaded', () => {
     function openModal() {
         if (!selectedCell) return;
         modalTitle.textContent = `Log Room Offers for Cell: ${selectedCell.id}`;
-        // Clear previous inputs
-        roomInputs.forEach(input => input.value = '');
+        // Clear previous inputs and focus the first one
+        roomInputs.forEach(input => {
+            input.value = '';
+        });
         modal.style.display = 'block';
-        roomInputs.focus(); // Focus the first input field
+        roomInputs[0].focus(); // Focus the first input field
     }
 
     function closeModal() {
@@ -144,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function handleSubmitRooms() {
         if (!selectedCell) return;
-
+        
         const offeredRooms = roomInputs.map(input => input.value.trim()).filter(room => room!== ''); // Get non-empty inputs
 
         if (offeredRooms.length === 0) {
@@ -160,8 +162,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
         const cellId = selectedCell.id;
-        if (!roomData[cellId]) {
-            roomData[cellId] = 0;
+        if (!roomData[cellId]) { 
+            roomData[cellId] = [];
         }
 
         roomData[cellId].push({ offered: finalOffered });
@@ -182,11 +184,14 @@ document.addEventListener('DOMContentLoaded', () => {
             closeModal();
         }
     });
-     // Allow submitting with Enter key from the last input field
-    roomInputs[2].addEventListener('keypress', function (e) {
-        if (e.key === 'Enter') {
-            handleSubmitRooms();
-        }
-    });
+    
+    // Allow submitting with Enter key from the last input field
+    if (roomInputs.length > 0) {
+        roomInputs[roomInputs.length - 1].addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                handleSubmitRooms();
+            }
+        });
+    }
 
 });

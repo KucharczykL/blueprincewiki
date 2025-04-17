@@ -3,6 +3,8 @@ tags:
   - people
 aliases:
   - Mary Matthew Jones
+  - Mary Epsen
+  - Marion Marigold
 ---
 A pen name of Mary Matthew Jones, the niece of [[Herbert S. Sinclair]].
 Her debut book was [[Red Prince]]. She also wrote [[Swim Bird]]. She received the Herald Literary Medal for both. [^1]

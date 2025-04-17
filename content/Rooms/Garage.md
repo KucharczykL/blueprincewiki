@@ -1,1 +1,1 @@
-Only draftable on the west side. Needs power turned on via [[Utility Closet]] to open the door and access [[Western Path]]. Needs [[Car Keys]] to open the car trunk.
+Only draftable on the west side. Needs power turned on via [[Utility Closet]] to open the door and access [[West Path]]. Needs [[Car Keys]] to open the car trunk.

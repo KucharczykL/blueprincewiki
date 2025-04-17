@@ -1,0 +1,1 @@
+The amount of money you start with every day. Can be increased by getting [[Allowance Token]].
