@@ -1,0 +1,1 @@
+The list of [[Floorplan|Floorplans]] that are available for [[Drafting]].

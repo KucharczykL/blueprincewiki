@@ -3,3 +3,4 @@
 # Items
 - [[Keycard]]
 - [[Car Keys]]
+- [[Compass]]

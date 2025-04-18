@@ -4,3 +4,4 @@ A spot located outside [[The Estate]] at [[West Path]]. It can draft special roo
 - [[Trading Post]]
 - [[Shelter]]
 - [[Shrine]]
+- [[Schoolhouse]]

@@ -5,3 +5,4 @@ Covers everything outside [[The House]] but withing [[The Estate]]. There are se
 - [[Campsite]]
 - [[Gemstone Cavern]]
 - [[Apple Orchard]]
+- [[The Precipice]]
