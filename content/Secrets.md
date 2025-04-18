@@ -6,12 +6,16 @@ tags:
 - why did Marion split with her publisher?
 - who were the first two prominent authors who split from Ruffington Press?
 - how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the [[campside_tent.jpg]]?
+	- Simon probably just likes it as it's also about him?
 - who leaked the dossier naming [[Caleb Manning]] and [[Phillip White]]?
 - why/where did Marion disappear to?
-- what did she do that was praiseworthy (as said in [[Red Letter No. 4]])
+	- something happened to her during the heist to steal [[Ruby Crown of Orinda Aries]]?
+	- what did she do that was praiseworthy (as said in [[Red Letter No. 4]])
+		- probably the aforementioned theft?
 - who was arrested for criminal conspiracy as mentioned in [[Publisher and author detained by Red Guard, questioned]]
 - what is the deal with [[Ruffington]] and [[Reddington]]?
 - who is [[Bridgette]]?
+	- must be one of the servants based on [[Anne Babbage]] giving her menial tasks
 - who is [[Daniel]]?
 - [ ] connect [[Boiler Room]] with [[Laboratory]]
 - [ ] connect [[Boiler Room]] with [[Pump Room]]
@@ -23,6 +27,7 @@ tags:
 - [ ] connect [[Pump Room]] with [[Kitchen]]
 - [ ] connect [[Pump Room]] with [[Greenhouse]]
 - what other places outside the house does [[Pump Room]] connect to?
+	- [[Reservoir]]?
 - what happened during the [[Trinsdale Lake]] bombing?
 - borrow books from [[Library]]:
 	- [ ] [[History of Orindia]]
@@ -33,18 +38,21 @@ tags:
 - [ ] there's another locked door in [[Private Drive]]
 - [ ] how to replace the statue of Orinda with the status of Rynna in [[Cloister]] as mentioned in [[Gardener's Logbook]]?
 - [ ] draft rooms:
-	- [ ] [[Locksmith]]
 	- [ ] [[Drafting Room]]
+	- [ ] [[Conservatory]]
+	- [ ] [[Closed Exhibit]]
 - [ ] solve the [[Chess Puzzle]]
-	- [ ] find Horse chess piece
-	- [ ] find Rook chess piece
-	- [ ] confirm Pawn chess piece
 - [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
 - [ ] solve the [[Torn Book]]
 - [ ] solve the puzzle in [[Drawing Room]]
-- [ ] find "two stones under white trees" for [[Music Sheet Puzzle]]
 - [ ] who wrote [[45 Rooms Note]]
 	- [ ] how does the note relate to the [[Billiard]] puzzle?
 - [ ] figure out [[Chamber of Mirrors]]
-- [ ] what is "Ajeran Angels" referring to in the description of [[Chapel]]?
 - [ ] who is [[Kirk Darren]]?
+- [ ] how to access [[Reservoir]]
+	- [ ] from [[Vault]]?
+	- [ ] from [[Basement]]?
+		- [ ] how to access Basement?
+			- [ ] draft [[Foundation]]
+	- [ ] can I pump water out and access it from the fountain area?
+- [ ] what is with the large gear underground?

@@ -1,0 +1,1 @@
+Activate each statue in order of [[Ajeran Angels]]. The first one is right across the entrance, then go counter-clockwise. Opens the door to [[Catacombs]].

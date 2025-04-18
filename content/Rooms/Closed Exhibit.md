@@ -1,0 +1,1 @@
+Unlocked by reading [[Red Letter No. 2]].

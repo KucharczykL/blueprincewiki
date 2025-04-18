@@ -1,7 +1,7 @@
 # Interactable
 - [[Greenhouse]]
 - 2x [[Dig Spot]]
-- broken south [[Antechamber]] lever (can it be fixed with [[Broken Lever]]? Maybe not, given what's written in [[Broken Antechamber Lever Note]])
+- south [[Antechamber]] lever (needs [[Broken Lever]])
 
 # Items
 - [[Watering Can]]

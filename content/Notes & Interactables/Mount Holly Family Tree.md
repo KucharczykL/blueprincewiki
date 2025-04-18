@@ -1,6 +1,6 @@
 ![[mount_holly_family_tree.jpg]]
 - [[Baron Tomas Sinclair]]
-- [[Baroness Auravel]]
+- [[Baroness Auravei]]
 - [[Lord William Epsen]]
 - [[Lady Ashlynn]]
 - [[Herbert S. Sinclair]]

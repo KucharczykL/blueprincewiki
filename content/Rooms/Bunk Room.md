@@ -2,5 +2,6 @@
 
 # Interactable
 - [[Bunk Room Diary Entry]]
-# Items
+# Items (sometimes)
 - 4x [[Coin]]
+- 2x [[Gem]]

@@ -1,7 +1,7 @@
 # Interactable
 - [[Trunk]]
 - [[Photo of Tomas, Herbert and Simon]]
-- Photo of older [[Baroness Auravel]] wearing  the [[Crescent Locket]]
+- Photo of older [[Baroness Auravei]] wearing  the [[Crescent Locket]]
 
 # Items
 - [[Gem]]

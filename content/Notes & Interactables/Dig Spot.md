@@ -1,4 +1,12 @@
 # Items
+## Useful
+- 1-4 [[Coin]]
+- [[Key]]
+- [[Turnip]]
+- [[Broken Lever]]
+## Useless
 - [[Old Tin Can]]
-- 2x [[Coin]]
+- [[Brick]]
 - [[Rock]]
+- [[Pebbles]]
+- [[Old Shoe]]

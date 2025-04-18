@@ -1,4 +1,4 @@
-- [[Baron Tomas Sinclair]] + [[Baroness Auravel]]
+- [[Baron Tomas Sinclair]] + [[Baroness Auravei]]
 	- [[Herbert S. Sinclair]], [[Simon H. Sinclair]]
 		- [[Marion Marigold]] (Sinclair-Epsen) + Jones??
 			- [[Simon]] (Sinclair-Epsen)

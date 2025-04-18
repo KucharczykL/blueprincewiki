@@ -1,8 +1,9 @@
 # Interactable
 - [[Bedroom]]
-- Photo of [[Baroness Auravel]]
+- Photo of [[Baroness Auravei]]
 
-# Items
-- [[Ivory Die]] (sometimes)
+# Items (sometimes)
+- [[Ivory Die]]
+- [[Car Keys]]
 
 ![[2025-04-15-22-38-12.jpg]]

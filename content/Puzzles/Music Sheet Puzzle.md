@@ -13,5 +13,7 @@ First words on the sheets are true message
 
 Find among the white trees under two stones
 
-Perhaps here? Seems like I might need [[Shovel]]
+Dig here with a [[Shovel]] to uncover the [[Conservatory]] floorplan.
+
 ![[2025-04-18-13-25-58.jpg]]
+![[2025-04-18-21-57-33.jpg]]

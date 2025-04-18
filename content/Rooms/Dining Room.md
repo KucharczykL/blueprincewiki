@@ -5,3 +5,4 @@ A #blue room.
 
 # Items
 - [[Car Keys]]
+- [[Gem]]

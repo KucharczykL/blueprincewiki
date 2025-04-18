@@ -1,0 +1,4 @@
+---
+aliases:
+  - chess pieces
+---
