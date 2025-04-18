@@ -1,7 +1,14 @@
 Probably refers to the chess pieces sometimes found in rooms. Need to place these pieces:
 - Queen - LM4 [^1]
 - Bishop - L4 [^2]
+	- also appears in [[Attic]]: [[2025-04-18-10-58-43.jpg]]
 - Pawn - C3 (probably not correct since that piece is yellow) [^3]
+	- appears in:
+		- [[Guest Bedroom]]
+		- [[Den]]
+		- [[Drawing Room]]
+		- [[Storeroom]]
+		- [[Nursery]]
 - King - R5 [^4]
 - Horse
 - Rook

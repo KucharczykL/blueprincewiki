@@ -26,11 +26,8 @@ tags:
 - what happened during the [[Trinsdale]] bombing?
 - borrow books from [[Library]]:
 	- [ ] [[Sightseer's Guide to Reddington]]
-	- [ ] [[Swim Bird]]
-	- [ ] [[The Fixed Stars]]
 	- [ ] [[History of Orindia]]
 	- [ ] [[EPCW Pump System User Manual]]
-	- [x] [[Drafting Strategy - Architectural Digest Vol. 3]]
 - [ ] how to unlock [[Her Ladyship's Diary]]
 - [ ] what's with the tunnel under [[The Grounds]]? seems like I should be able to light the torches
 - [ ] there's also a barricaded door near the terrace with braziers in [[The Grounds]]
@@ -39,11 +36,16 @@ tags:
 - [ ] draft rooms:
 	- [ ] [[Locksmith]]
 	- [ ] [[Drafting Room]]
-	- [ ] [[Greenhouse]]
-	- [ ] [[Cloister]]
+	- [ ] [[Locker Room]]
 - [ ] solve the [[Chess Puzzle]]
 	- [ ] find Horse chess piece
 	- [ ] find Rook chess piece
 	- [ ] confirm Pawn chess piece
 - [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
 - [ ] solve the [[Torn Book]]
+- [ ] solve the puzzle in [[Drawing Room]]
+- [ ] find "two stones under white trees" for [[Music Sheet Puzzle]]
+- [ ] who wrote [[45 Rooms Note]]
+	- [ ] how does the note relate to the [[Billiard]] puzzle?
+- [ ] figure out [[Chamber of Mirrors]]
+- [ ] what is "Ajeran Angels" referring to in the description of [[Chapel]]?

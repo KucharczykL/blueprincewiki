@@ -1,4 +1,4 @@
-Published on [[86-11-11|Nov 11 '86]]
+Published on [[1986-11-11|Nov 11 '86]]
 
 ![[newspaper_4.jpg]]
 

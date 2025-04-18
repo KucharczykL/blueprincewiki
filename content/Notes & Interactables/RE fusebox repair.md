@@ -1,4 +1,4 @@
-DATE: [[93-10-05|OCT. 5 1993]] RE: [[Fuse Box|fusebox]] repair
+DATE: [[1993-10-05|OCT. 5 1993]] RE: [[Fuse Box|fusebox]] repair
 
 The v.a.c. indicator lights installed per instructions have been turned on.
 

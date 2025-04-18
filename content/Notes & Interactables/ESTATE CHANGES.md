@@ -1,4 +1,4 @@
-DATE: [[93-10-07|OCT. 7 1993]]  SUBJECT: ESTATE CHANGES
+DATE: [[1993-10-07|OCT. 7 1993]]  SUBJECT: ESTATE CHANGES
 
 Dear [[Herbert S. Sinclair|Herbert]],
 

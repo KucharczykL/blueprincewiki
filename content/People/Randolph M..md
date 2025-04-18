@@ -1,0 +1,1 @@
+Same person as [[Moore]]?

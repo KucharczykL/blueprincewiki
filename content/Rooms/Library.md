@@ -11,5 +11,6 @@
 	- [[Sightseer's Guide to Reddington]]
 # Items
 - [[Coupon Book]]
+- [[Key]]
 
 ![[2025-04-16-21-01-39.jpg]]

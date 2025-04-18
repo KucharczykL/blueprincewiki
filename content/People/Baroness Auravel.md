@@ -1,0 +1,1 @@
+Wife of [[Baron Tomas Sinclair]], mother of [[Herbert S. Sinclair]] and [[Simon H. Sinclair]].

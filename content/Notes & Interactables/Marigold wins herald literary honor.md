@@ -1,4 +1,4 @@
-Published [[85-08-22]].
+Published [[1985-08-22]].
 
 Cropped from [[newspaper_1.jpg]].
 

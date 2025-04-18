@@ -1,0 +1,1 @@
+Unlocks [[Vault]] box 233.

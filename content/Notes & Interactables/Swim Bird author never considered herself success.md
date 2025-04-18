@@ -1,4 +1,4 @@
-Published on [[86-01-27]].
+Published on [[1986-01-27]].
 
 Cropped from [[newspaper_1.jpg]]
 

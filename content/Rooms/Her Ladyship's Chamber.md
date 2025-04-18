@@ -13,4 +13,4 @@ Since there's pictures of William and Lady Ashlynn I assume this is [[Clara Epse
 # Items
 - [[Floorplan Upgrade Disk]]
 
-![[2025-04-17-22-34-38.jpg]]
+![[2025-04-17-22-34-38.jpg]]![[2025-04-18-12-15-24.jpg]]

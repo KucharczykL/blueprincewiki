@@ -5,3 +5,4 @@ A spot located outside [[The Estate]] at [[West Path]]. It can draft special roo
 - [[Shelter]]
 - [[Shrine]]
 - [[Schoolhouse]]
+- [[Toolshed]]

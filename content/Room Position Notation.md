@@ -1,1 +1,1 @@
-The Estate is a grid of 5 columns and 10 rows. To mark a position on the grid, the columns are called: LM (left-most), L (left), C (center), R (right) and RM (right-most). The rows are marked 1-10 from the bottom to match how the game refers to them (as ranks).
+[[The Estate]] is a grid of 5 columns and 10 rows. To mark a position on the grid, the columns are called: LM (left-most), L (left), C (center), R (right) and RM (right-most). The rows are marked 1-10 from the bottom to match how the game refers to them (as [[Rank|ranks]]).

@@ -1,0 +1,1 @@
+Rank is the row of rooms counted from bottom to top.

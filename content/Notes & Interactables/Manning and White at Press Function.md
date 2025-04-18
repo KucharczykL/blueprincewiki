@@ -1,4 +1,5 @@
 ![[newspaper_2_second.jpg]]
+![[manning_and_white_at_press_function.jpg]]
 
 [[Caleb Manning|Manning]] and [[Phillip White|White]] at Press Function
 

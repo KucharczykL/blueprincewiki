@@ -1,4 +1,4 @@
-DATE: [[93-10-08|OCT. 8 1993]] RE: RE: [[Fuse Box|fusebox]] repair
+DATE: [[1993-10-08|OCT. 8 1993]] RE: RE: [[Fuse Box|fusebox]] repair
 
 [[Gabe]] - YES - that is the correct functionality
 

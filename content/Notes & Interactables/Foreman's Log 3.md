@@ -1,7 +1,7 @@
 [[Scripts & Rudford Mining Company]]
 Excavation Department
 
-Foreman's Log: 3 Date: [[15-07-02|7.2.1915]]
+Foreman's Log: 3 Date: [[1915-07-02|7.2.1915]]
 
 As our client [[Baron Tomas Sinclair|Tomas Sinclair]] suspected, the arches that were visible from the south cliff were part of a much longer arcade carved into the rockface. Last week, when our crew first arrived, only two supporting pillars were visible, but after only a  few days of clearing vines, moss and dirt, we have uncovered a dozen more.
 
