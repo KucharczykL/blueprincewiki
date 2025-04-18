@@ -14,7 +14,8 @@ A room that is only draftable at the [[West Path]].
 - [[Coin Purse]]
 - [[Battery Pack]]
 - [[Car Keys]]
-- 
+- [[Sledgehammer]] -> [[Coupon Book]]
+- [[Salt Shaker]] -> [[Ivory Die]] (end)
 
 # Interactable
 - [[Dynamite]] (a little too dangerous to pick up...)

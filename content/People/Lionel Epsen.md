@@ -1,0 +1,1 @@
+The oldest son of [[Lord William Epsen]] and [[Lady Ashlynn]]. Left [[Featherfall Keep]] before 1951.

@@ -1,3 +1,5 @@
+# Interactable
+- [[Billiard Puzzle]]
 # Items
 - 2x [[Key]]
 

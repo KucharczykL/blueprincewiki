@@ -1,0 +1,1 @@
+Home of the [[Epsen Family]] for generations. After [[Lord William Epsen]] died, [[Lionel Epsen]] left and [[Clara Epsen]] stayed until her marriage in [[1951]]. Designed a National Historic Landmark in [[1972]].

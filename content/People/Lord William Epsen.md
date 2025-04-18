@@ -1,0 +1,1 @@
+Husband of [[Lady Ashlynn]] and father of [[Clara Epsen]] and [[Lionel Epsen]]. Lived at [[Featherfall Keep]].

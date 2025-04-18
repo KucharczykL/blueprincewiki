@@ -1,0 +1,1 @@
+The nine spots in the bottom left of [[The House]].

@@ -3,3 +3,4 @@
 # Items
 - [[Shovel]]
 - [[Metal Detector]]
+- [[Sledgehammer]]

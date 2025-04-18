@@ -23,9 +23,8 @@ tags:
 - [ ] connect [[Pump Room]] with [[Kitchen]]
 - [ ] connect [[Pump Room]] with [[Greenhouse]]
 - what other places outside the house does [[Pump Room]] connect to?
-- what happened during the [[Trinsdale]] bombing?
+- what happened during the [[Trinsdale Lake]] bombing?
 - borrow books from [[Library]]:
-	- [ ] [[Sightseer's Guide to Reddington]]
 	- [ ] [[History of Orindia]]
 	- [ ] [[EPCW Pump System User Manual]]
 - [ ] how to unlock [[Her Ladyship's Diary]]
@@ -36,7 +35,6 @@ tags:
 - [ ] draft rooms:
 	- [ ] [[Locksmith]]
 	- [ ] [[Drafting Room]]
-	- [ ] [[Locker Room]]
 - [ ] solve the [[Chess Puzzle]]
 	- [ ] find Horse chess piece
 	- [ ] find Rook chess piece
@@ -49,3 +47,4 @@ tags:
 	- [ ] how does the note relate to the [[Billiard]] puzzle?
 - [ ] figure out [[Chamber of Mirrors]]
 - [ ] what is "Ajeran Angels" referring to in the description of [[Chapel]]?
+- [ ] who is [[Kirk Darren]]?

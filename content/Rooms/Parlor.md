@@ -1,0 +1,2 @@
+# Interactable
+- [[Parlor Puzzle]]

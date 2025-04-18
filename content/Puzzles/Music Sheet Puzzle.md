@@ -12,3 +12,6 @@ The sheets have words in bold:
 First words on the sheets are true message
 
 Find among the white trees under two stones
+
+Perhaps here? Seems like I might need [[Shovel]]
+![[2025-04-18-13-25-58.jpg]]

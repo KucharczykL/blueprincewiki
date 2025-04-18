@@ -1,2 +1,4 @@
 # Items
-- 4x [[Gem]]
+- one of:
+	- 4x [[Gem]]
+	- 10x [[Coin]]

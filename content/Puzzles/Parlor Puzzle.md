@@ -1,0 +1,1 @@
+There are three boxes and at least one of them is false, at least one them is true. The reward is 2x [[Gem]].

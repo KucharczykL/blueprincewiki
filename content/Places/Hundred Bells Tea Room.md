@@ -1,0 +1,1 @@
+Located on the southern short of [[Trinsdale Lake]]. Open to the general public for lunch on Mondays and Fridays.

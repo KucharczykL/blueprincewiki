@@ -1,1 +1,11 @@
-Only draftable on the west side. Needs power turned on via [[Utility Closet]] to open the door and access [[West Path]]. Needs [[Car Keys]] to open the car trunk.
+Only draftable on the west side.
+
+# Interactable
+- [[Reprimand from Mrs. Babbage]]
+- garage door (needs to be turned on in [[Utility Closet]]), leads to [[West Path]]
+# Items
+- 3x [[Key]]
+- car trunk (needs [[Car Keys]])
+
+![[2025-04-15-23-04-32.jpg]]
+![[Pasted image 20250418140820.png]]
