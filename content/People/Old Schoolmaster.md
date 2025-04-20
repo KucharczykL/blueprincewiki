@@ -1,1 +1,1 @@
-Wrote [[Closing Address]] and served before [[Mrs. Peterson]].
+Wrote [[Closing Address]] and served before [[Hannah Peterson]].

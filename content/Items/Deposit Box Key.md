@@ -1,1 +1,1 @@
-Unlocks [[Vault]] box 233.
+Unlocks [[Vault]] box 233, or 149.

@@ -1,7 +1,7 @@
 ---
 date: 1987-02-21
 ---
-Published on [[1987-02-21]]
+Published in [[1987]]
 
 ![[newspaper_3.jpg]]
 

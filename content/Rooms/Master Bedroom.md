@@ -1,4 +1,8 @@
 Gives [[Steps]] based on the number of drafted rooms in [[The House]].
+Only draftable in the [[East Wing]]. [^1]
+
+[^1]: [[Drafting Locations Note]]
+
 
 # Interactable
 - [[Mora Jai Box]]

@@ -1,0 +1,1 @@
+A servant of 40 years in [[Sinclair Family]]'s employ. Was let go with [[Herbert S. Sinclair]]'s passing and gifted a [[Lake House]].

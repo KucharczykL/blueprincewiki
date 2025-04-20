@@ -1,3 +1,5 @@
+Published in [[1987]].
+
 ![[2025-04-16-21-21-03.jpg]]
 
 [[Reddington Herald]]

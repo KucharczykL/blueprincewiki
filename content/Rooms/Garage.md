@@ -1,4 +1,4 @@
-Only draftable on the west side.
+Only draftable in the [[West Wing]]. [^1]
 
 # Interactable
 - [[Reprimand from Mrs. Babbage]]
@@ -9,3 +9,5 @@ Only draftable on the west side.
 
 ![[2025-04-15-23-04-32.jpg]]
 ![[Pasted image 20250418140820.png]]
+
+[^1]: [[Drafting Locations Note]]

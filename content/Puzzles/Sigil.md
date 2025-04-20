@@ -2,20 +2,16 @@
 aliases:
   - Sigils
 ---
+Ancient runes imbued with meaning that use symbology to represent the different aspects of the old realms. These symbols are [[First Era|Ajeran]].
 
-
-As described in [[Realm & Rune]].
+As described in [[Realm & Rune]]:
 
 # Cores
 
-- Orindia
-- Fenn
-- Eraja [^2]
-- Coraria [^1]
-- Aries
+- Orinda Aries
+- Fenn Aries
+- Eraja
+- Coraria
+- Arch Aries
 
-![[Pasted image 20250418093130.png]]
-
-[^1]: Figured out the name from the description of [[Sauna]].
-
-[^2]: Description of [[Her Ladyship's Chamber]].
+![[Pasted image 20250420233536.png]]

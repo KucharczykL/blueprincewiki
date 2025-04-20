@@ -1,0 +1,1 @@
+The nine rooms on the right side of [[The House]].

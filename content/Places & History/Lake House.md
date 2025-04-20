@@ -1,0 +1,1 @@
+A house at [[Trinsdale Lake]]. Gifted to [[Hartley Ruota]] upon [[Herbert S. Sinclair]]'s death.

@@ -1,1 +1,1 @@
-A school established by [[Baron Tomas Sinclair]], and headed first by [[Old Schoolmaster]] then by [[Mrs. Peterson]].
+A school established by [[Baron Tomas Sinclair]], and headed first by [[Old Schoolmaster]] then by [[Hannah Peterson]].

@@ -15,5 +15,10 @@ Can upgrade:
 		- +1 [[Key]] (total 2)
 		- Breakfast Nook: + Bacon & Eggs
 		- Reading Nook: always draw [[Library]] when drafting this room
+- [[Reservoir]]
+	- upgrade [[Storeroom]]
+		- +1 [[Key]] (total 2)
+		- +1 [[Gem]] (total 2)
+		- +9 [[Coin]] (total 10)
 
 ![[floorplan_upgrade_disk.jpg]]

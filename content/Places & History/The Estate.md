@@ -5,4 +5,5 @@ aliases:
 ---
 
 
-Owned by [[Herbert S. Sinclair]]. [[Simon]] is sent there after Herbert dies. It supposedly has 45 rooms but we are supposed to find [[Room 46]].
+Owned by [[Herbert S. Sinclair]]. [[Simon]] is sent there after Herbert dies.
+It refers to all the explorable areas of [[Mt. Holly]] including [[The Grounds]]. This is in contrast to [[The House]].

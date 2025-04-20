@@ -9,8 +9,10 @@
 	- [[EPCW Pump System User Manual]]
 	- [[The Fixed Stars]]
 	- [[Sightseer's Guide to Reddington]]
-# Items
+# Items (sometimes)
 - [[Coupon Book]]
 - [[Key]]
+- [[Magnifying Glass]]
+- [[Treasure Map]]
 
 ![[2025-04-16-21-01-39.jpg]]

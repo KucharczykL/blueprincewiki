@@ -1,1 +1,6 @@
+---
+aliases:
+  - Mrs. Peterson
+---
+
 The principal of [[Reddington Elementary]] who succeeded [[Old Schoolmaster|the old schoolmaster]].

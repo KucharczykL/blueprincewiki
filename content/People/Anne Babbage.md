@@ -1,6 +1,8 @@
 ---
 tags:
   - people
+aliases:
+  - Mrs. Babbage
 ---
 The house manager of [[The House]]. [^1] [^2]
 

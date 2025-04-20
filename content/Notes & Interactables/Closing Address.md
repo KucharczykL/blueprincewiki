@@ -3,7 +3,7 @@ For the last 38 years, it has been my pleasure of serving as your [[Schoolmaster
 
 I first wish to thank [[Clara Epsen|Lady Epsen]], our most gracious host today, for not only paying attention in my classes those many years ago - but for all the fundraising she has done on behalf of our community and our children. Without her, [[Reddington Elementary]] would still be a distant and blurry vision. A vision I dared not even dream.
 
- That dreamer is of course, the incomparable [[Mrs. Peterson|Mrs. Peterson]], our future principal and my reluctant successor who I might add, forced me to give this speech, so I think I'll end my praise of her here, though she deserves much more I'll admit.
+ That dreamer is of course, the incomparable [[Hannah Peterson|Mrs. Peterson]], our future principal and my reluctant successor who I might add, forced me to give this speech, so I think I'll end my praise of her here, though she deserves much more I'll admit.
 
 To the architect of our new schoolhouse, the [[Baron Tomas Sinclair|Baron Sinclair]], thank you for following in your father's footsteps in building in [[Reddington]] yet another school. And for also allowing the use of your own private residence and floorplans to serve as our interim facility until the new campus is completed in March. A decision, I'm certain he will immediately regret tomorrow morning when he hears the children running through the halls.
 

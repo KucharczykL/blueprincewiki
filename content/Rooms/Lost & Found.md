@@ -1,0 +1,2 @@
+# Interactable
+- [[Mora Jai Box]]

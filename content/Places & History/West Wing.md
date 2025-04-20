@@ -1,1 +1,1 @@
-The nine spots in the bottom left of [[The House]].
+The nine rooms on the left side of [[The House]].

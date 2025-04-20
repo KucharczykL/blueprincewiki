@@ -1,0 +1,1 @@
+Connects [[Basement]] and [[Inner Sanctum]].

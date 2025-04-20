@@ -1,9 +1,9 @@
 Checklist:
 - Queen
-- Office
-- Bishop
-- Horse
-- Rook
+- Office ✅
+- Bishop ✅
+- Horse ✅
+- Rook ✅
 - Pawn ✅
 
 The pieces can be found in these rooms:
@@ -24,11 +24,14 @@ The pieces can be found in these rooms:
 	- [[Dining Room]]
 	- [[Bedroom]]
 	- [[Parlor]]
+	- [[Freezer]]
 - King - [[Office]]
 - Horse
 	- [[Security]]
-	- [[Rooms/Observatory]]
+	- [[Observatory]]
 - Rook
 	- [[Nook]]
+	- [[Vault]]
+	- [[Conservatory]]
 
 ![[2025-04-18-08-14-58.jpg]]

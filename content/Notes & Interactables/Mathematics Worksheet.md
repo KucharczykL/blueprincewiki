@@ -9,4 +9,7 @@ According to the rules of [[Billiard Puzzle]], these should be:
 6 1 3 = 4
 6 1 3 = 2
 
+The incomplete version can be found in [[Locker Room]], the complete one can be found in [[Classroom]] (Grade 2).
+
 ![[2025-04-18-13-14-12.jpg]]
+![[2025-04-20-18-14-17.jpg]]

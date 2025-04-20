@@ -30,8 +30,6 @@ tags:
 - what other places outside the house does [[Pump Room]] connect to?
 	- [[Reservoir]]?
 - what happened during the [[Trinsdale Lake]] bombing?
-- borrow books from [[Library]]:
-	- [ ] [[EPCW Pump System User Manual]]
 - [ ] buy books from [[Bookshop]]:
 	- [ ] [[History of Orindia (First Edition)]]
 	- [ ] [[The Curse of Black Bridge]]
@@ -44,25 +42,26 @@ tags:
 - [ ] there's another locked door in [[Private Drive]]
 - [ ] how to replace the statue of Orinda with the status of Rynna in [[Cloister]] as mentioned in [[Gardener's Logbook]]?
 - [ ] draft rooms:
-	- [ ] [[Conservatory]]
 	- [ ] [[Closed Exhibit]]
-	- [ ] [[Foundation]]
+	- [ ] [[Secret Garden]] (perhaps need to use the key on a regular door? or something to do with [[Cloister]] because the center cannot be accessed normally)
+	- [ ] [[Mechanarium]]
 - [ ] solve the [[Chess Puzzle]]
 - [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
-- [ ] solve the [[Realm & Rune (Incomplete)]]
 - [ ] solve the puzzle in [[Drawing Room]]
 - [ ] who wrote [[45 Rooms Note]]
 	- [ ] how does the note relate to the [[Billiard]] puzzle?
-- [ ] figure out [[Chamber of Mirrors]]
 - [ ] who is [[Kirk Darren]]?
 - [ ] how to access [[Reservoir]]
 	- [ ] from [[Vault]]?
-	- [ ] from [[Basement]]?
-		- [ ] how to access Basement?
-			- [ ] draft [[Foundation]]
 	- [ ] can I pump water out and access it from the fountain area?
-- [ ] what is with the large gear underground?
 - [ ] is [[Clara Epsen]] the middle child of the [[Fourth King]] who gave her [[Eraja]]?
-- [ ] [[Antechamber]]
-	- [ ] how to open the west exit?
-	- [ ] how to open the north exit?
+- [ ] who was hiding in [[Shelter]] (as mentioned in [[Red Letter No. 7]])?
+	- [ ] perhaps these three? after they were investigated earlier by [[Red Guard]]
+	- [ ] [[Marion Marigold]]
+	- [ ] [[Caleb Manning]]
+	- [ ] [[Phillip White]]
+- [ ] where is [[Sandy Heights]] mentioned in [[Hundred Bells Meeting Note]]? Is it even important?
+- [ ] how to open the 8 doors in [[Inner Sanctum]]?
+- [ ] in [[Utility Closet]] what is the Cabinet referring to? Can the switch be fixed or toggled some other way?
+- [ ] combine [[Broken Lever]] + [[Sledgehammer]] + [[Battery Pack]] in [[Workshop]]
+- [ ] thaw things in [[Freezer]]

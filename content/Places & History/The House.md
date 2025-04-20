@@ -1,1 +1,1 @@
-All interior spaces of [[The Estate]].
+All interior spaces of [[The Estate]]. There are 45 rooms on the blueprint but there is [[Room 46]] behind the north door of [[Antechamber]].

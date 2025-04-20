@@ -1,4 +1,5 @@
 The next time you enter [[Boudoir]], gain 10 [[Steps]]. The next time you enter [[Walk-in Closet]], gain 3x [[Gem]].
+Only draftable in the [[West Wing]] from south-facing doors. [^1]
 
 # Notes
 Since there's pictures of William and Lady Ashlynn I assume this is [[Clara Epsen]]'s room.
@@ -14,3 +15,5 @@ Since there's pictures of William and Lady Ashlynn I assume this is [[Clara Epse
 - [[Floorplan Upgrade Disk]]
 
 ![[2025-04-17-22-34-38.jpg]]![[2025-04-18-12-15-24.jpg]]
+
+[^1]: [[Drafting Locations Note]]

@@ -7,3 +7,6 @@ There are several of them throughout the Estate:
 - [[Study]] (0812)
 	- the clue is the chessboard with with a black piece on D8 = D-eight = Date, December 8, flip them around because black means negative, you get 0812
 	- has [[Gem]] and [[Red Letter No. 2]]
+- [[Shelter]]
+	- no combination, this is a time-locked safe
+	- has [[Gem]] and [[Red Letter No. 7]]
