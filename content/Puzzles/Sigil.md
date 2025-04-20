@@ -12,7 +12,7 @@ As described in [[Realm & Rune]].
 - Fenn
 - Eraja [^2]
 - Coraria [^1]
-- Ar
+- Aries
 
 ![[Pasted image 20250418093130.png]]
 

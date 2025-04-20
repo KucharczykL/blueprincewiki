@@ -5,6 +5,7 @@ tags:
 
 - why did Marion split with her publisher?
 - who were the first two prominent authors who split from Ruffington Press?
+	- could be [[Caleb Manning]] 
 - how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the [[campside_tent.jpg]]?
 	- Simon probably just likes it as it's also about him?
 - who leaked the dossier naming [[Caleb Manning]] and [[Phillip White]]?
@@ -61,3 +62,7 @@ tags:
 			- [ ] draft [[Foundation]]
 	- [ ] can I pump water out and access it from the fountain area?
 - [ ] what is with the large gear underground?
+- [ ] is [[Clara Epsen]] the middle child of the [[Fourth King]] who gave her [[Eraja]]?
+- [ ] [[Antechamber]]
+	- [ ] how to open the west exit?
+	- [ ] how to open the north exit?

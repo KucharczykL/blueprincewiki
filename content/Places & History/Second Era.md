@@ -1,0 +1,1 @@
+During this time the [[Fourth King]] split the domain into three.

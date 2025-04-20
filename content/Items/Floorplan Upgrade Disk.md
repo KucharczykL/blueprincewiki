@@ -10,7 +10,7 @@ Can upgrade:
 		- same day delivery (after reaching rank 8)
 		- no contact delivery (dropped off at the entrance the next day)
 		- freight shipping (large package delivery 3 days later)
-- [[Great Hallway]]
+- [[Great Hall]]
 	- upgrade [[Nook]]
 		- +1 [[Key]] (total 2)
 		- Breakfast Nook: + Bacon & Eggs

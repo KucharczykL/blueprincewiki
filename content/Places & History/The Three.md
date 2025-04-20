@@ -1,0 +1,1 @@
+The three children of the [[Fourth King]] of [[Second Era]] who inherited the regions of [[Eraja]], [[Arch Aries]], and [[Unknown Second Era Domain]]

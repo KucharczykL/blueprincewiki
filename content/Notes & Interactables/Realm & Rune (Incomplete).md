@@ -12,16 +12,15 @@ Prof. [[R. Willard]]
 [[Robert Bird & Sons]]
 [[1905]]
 
-```
---TION
---ars of the first era found
---gs, either of natural
---ulting from the creations of
---ere accustomed to record
---various signs with the aid of
---. They did this in order that the
---of their realm might not be
---erstood by strangers.
+\[MISSING\]TION
+\[MISSING\]ars of the first era found
+\[MISSING\]gs, either of natural
+\[MISSING\]ulting from the creations of
+\[MISSING\]ere accustomed to record
+\[MISSING\]various signs with the aid of
+\[MISSING\]. They did this in order that the
+\[MISSING\]of their realm might not be
+\[MISSING\]erstood by strangers.
 
 Historically speaking, sigils are not a new
 tradition. They have been found in every
@@ -74,57 +73,57 @@ and distinguish the core as a first step
 in deciphering any sigil as all the other parts are meaningless if we don't first
 know the place we are describing.
 
-Several exam--
-from well k--
+Several exam\[MISSING\]
+from well k\[MISSING\]
 
-[PICTURE OF GEM-LIKE NARROW SHAPE] Orin--
-[PICTURE OF PENTAGRAM] Fe--
-[PICTURE OF HOURGLASS] Er--
-[PICTURE OF CHEVRON DOWN] Co--
-[PICTURE OF MOUNTAIN] Ar--
+[PICTURE OF GEM-LIKE NARROW SHAPE] Orin\[MISSING\] (note: assuming [[Oris]] or [[Orindia]])
+[PICTURE OF PENTAGRAM] Fe\[MISSING\] (note: assuming [[Fenn]])
+[PICTURE OF HOURGLASS] Er\[MISSING\] (note: assuming [[Eraja]])
+[PICTURE OF CHEVRON DOWN] Co\[MISSING\] (note: assuming [[Coraria]])
+[PICTURE OF MOUNTAIN] Ar\[MISSING\] (note: assuming [[Aries]])
 
 2. THE RAYS
 [PICTURE OF 6 LINES RADIATING FROM CENTER]
 
---rth from the core will come
---ding lines, splitting the sigil
---From one sigil to another, the
---n differ in number, style and
---g the differences in these
---ediately reveal several things
---alm.
+\[MISSING\]rth from the core will come
+\[MISSING\]ding lines, splitting the sigil
+\[MISSING\]From one sigil to another, the
+\[MISSING\]n differ in number, style and
+\[MISSING\]g the differences in these
+\[MISSING\]ediately reveal several things
+\[MISSING\]alm.
 
-TRA--
-(th--)
+TRA\[MISSING\]
+(th\[MISSING\])
 
-Counting the--
-sigil will rev--
-transporatio--
-Were they a--
-on ships or --
-have emplo--
-expanse of --
+Counting the\[MISSING\]
+sigil will rev\[MISSING\]
+transporatio\[MISSING\]
+Were they a\[MISSING\]
+on ships or \[MISSING\]
+have emplo\[MISSING\]
+expanse of \[MISSING\]
 
 [PICTURE OF SUN-LIKE SYMBOL WITH CIRCLE IN THE MIDDLE AND 6 RAYS RADIATING FROM IT]
 
---ties. Ship routes.
---eight rays on these
---e the directions
---rose.
+\[MISSING\]ties. Ship routes.
+\[MISSING\]eight rays on these
+\[MISSING\]e the directions
+\[MISSING\]rose.
 
---s. Carriages.
---here look like
---a map.
+\[MISSING\]s. Carriages.
+\[MISSING\]here look like
+\[MISSING\]a map.
 
---ugh trails. Another
---four rays, however,
---ys be configured
---rse galloping.
+\[MISSING\]ugh trails. Another
+\[MISSING\]four rays, however,
+\[MISSING\]ys be configured
+\[MISSING\]rse galloping.
 
---. Locomotion.
---rays here are used in
---for realms that rely
---rack based travel.
+\[MISSING\]. Locomotion.
+\[MISSING\]rays here are used in
+\[MISSING\]for realms that rely
+\[MISSING\]rack based travel.
 
 [ALMOST WHOLE PAGE MISSING HERE]
 
@@ -165,8 +164,8 @@ themselves mighty in arms or blessed by artistic and economic fortune.
 
 [PICTURE OF ASTERISK] Tribal - A primitive realm. Hunter and gatherers.
 [PICTURE OF THREE DOTS IN ELONGATED CIRCLE] Agricultural - Harvest and farming based society and culture.
-[PICTURE OF TWO TRIANGLES] Martial - Militari--
-in generation spanning--
+[PICTURE OF TWO TRIANGLES] Martial - Militari\[MISSING\]
+in generation spanning\[MISSING\]
 arguments.
 
 [PICTURE OF BUILDING] Metropolitan - Large city-state with a dense, urban and populous center.
@@ -216,7 +215,6 @@ previously been an undecipherable enigma.
 Red Banners (Red is striken-through)
 Martial
 Fog
-```
 
 ![[2025-04-18-08-42-07.jpg]]
 ![[2025-04-18-08-42-16.jpg]]

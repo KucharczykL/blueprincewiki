@@ -1,3 +1,9 @@
+---
+tags:
+  - book
+---
+
+
 A book by [[Marion Marigold]] that won her an award. [^1] Can be borrowed in [[Library]]. According to the record, it was borrowed by [[Herbert S. Sinclair]], [[Mrs. Peterson]], [[Simon]], [[Anne Babbage]], [[Bon Margle]] and [[Simon|Simon P. Jones]].
 
 Published by [[Ruffington Red Publishing]] in [[1985]].

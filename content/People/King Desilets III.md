@@ -1,0 +1,1 @@
+A bad ruler that did something that shocked everyone at the time and who indirectly caused the ensuing [[War of the Fifth Era]].

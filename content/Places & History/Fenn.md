@@ -1,0 +1,1 @@
+The Grand City of Fenn that revolted against [[Oris (city)]] with [[Prince Leerson of Fenn]] leading the charge.
