@@ -2,7 +2,7 @@ Gives [[Steps]] based on the number of drafted rooms in [[The House]].
 
 # Interactable
 - [[Mora Jai Box]]
-- [[Mora Jaix Box Note]]
+- [[Mora Jai Box Note]]
 - [[Red Prince (With Notes)]]
 - [[Foundation Note]]
 - [[Unfinished Letter]]

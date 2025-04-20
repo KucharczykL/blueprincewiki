@@ -13,6 +13,7 @@ The pieces can be found in these rooms:
 - Bishop 
 	- [[Attic]]
 	- [[Chapel]]
+	- [[Bookshop]]
 - Pawn
 	- [[Guest Bedroom]]
 	- [[Den]]
@@ -26,7 +27,7 @@ The pieces can be found in these rooms:
 - King - [[Office]]
 - Horse
 	- [[Security]]
-	- [[Observatory]]
+	- [[Rooms/Observatory]]
 - Rook
 	- [[Nook]]
 

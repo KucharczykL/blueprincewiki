@@ -1,7 +1,7 @@
 # Interactable
 - [[Foreman's Log 3]]
 - [[Chess Puzzle]]
-- [[Torn Book]]
+- [[Realm & Rune (Incomplete)]]
 
 The elevator leading here has a core of [[Orindia]]:
 

@@ -12,7 +12,7 @@ The third-largest city in [[Fenn Aries]], and site of its former capital, Reddin
 Spectacular scenery, a historic castle, and a charming underground bazaar reward visitors who wish to explore further. Reddington is that type of unique, enchanting place that lingers in your mind and memories long after you leave her.
 
 The Botanical Gardens
-Reddington's most popular attraction and a guaranteed crowd-pleaser, the Botanical Gardens, is loved by both locals and visitors for its [[Ajeria|Ajeran]] canopy house and mausoleum, its petal-covered trails, and a ming-boggling variety of flowers. This is the reason springtime is Reddington's busy season.
+Reddington's most popular attraction and a guaranteed crowd-pleaser, the Botanical Gardens, is loved by both locals and visitors for its [[Ajera|Ajeran]] canopy house and mausoleum, its petal-covered trails, and a ming-boggling variety of flowers. This is the reason springtime is Reddington's busy season.
 
 Situated just east of town, the Botanical Garden offer a scenic and captivating tableau of the natural countryside. A cobblestone trail meanders past over 1,000 species of tropical plants, each remarkable in its own right, yet even more stunning set against the spectacular backdrop of the Reddington mountains. Allow yourself at least an  hour to indulge in this picturesque walk, which concludes at Mainway Station.
 

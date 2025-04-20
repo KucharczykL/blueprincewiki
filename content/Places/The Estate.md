@@ -1,6 +1,7 @@
 ---
 aliases:
   - The Estate of Mount Holly
+  - Mount Holly Estate
 ---
 
 

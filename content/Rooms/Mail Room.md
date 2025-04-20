@@ -4,3 +4,4 @@ tags:
 ---
 # Interactable
 - [[Synka Company Packing Slip]]
+- [[Letter to Simon from dad]]

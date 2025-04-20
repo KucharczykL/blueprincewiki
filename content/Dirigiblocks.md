@@ -1,0 +1,1 @@
+A non-functional arcade machine in [[Commissary]]

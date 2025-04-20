@@ -30,20 +30,25 @@ tags:
 	- [[Reservoir]]?
 - what happened during the [[Trinsdale Lake]] bombing?
 - borrow books from [[Library]]:
-	- [ ] [[History of Orindia]]
 	- [ ] [[EPCW Pump System User Manual]]
+- [ ] buy books from [[Bookshop]]:
+	- [ ] [[History of Orindia (First Edition)]]
+	- [ ] [[The Curse of Black Bridge]]
+	- [ ] [[Drafting Strategy Vol. 4]]
+	- [ ] [[Drafting Strategy Vol. 5]]
+	- [ ] [[A New Clue]]
 - [ ] how to unlock [[Her Ladyship's Diary]]
 - [ ] what's with the tunnel under [[The Grounds]]? seems like I should be able to light the torches
 - [ ] there's also a barricaded door near the terrace with braziers in [[The Grounds]]
 - [ ] there's another locked door in [[Private Drive]]
 - [ ] how to replace the statue of Orinda with the status of Rynna in [[Cloister]] as mentioned in [[Gardener's Logbook]]?
 - [ ] draft rooms:
-	- [ ] [[Drafting Room]]
 	- [ ] [[Conservatory]]
 	- [ ] [[Closed Exhibit]]
+	- [ ] [[Foundation]]
 - [ ] solve the [[Chess Puzzle]]
 - [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
-- [ ] solve the [[Torn Book]]
+- [ ] solve the [[Realm & Rune (Incomplete)]]
 - [ ] solve the puzzle in [[Drawing Room]]
 - [ ] who wrote [[45 Rooms Note]]
 	- [ ] how does the note relate to the [[Billiard]] puzzle?

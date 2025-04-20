@@ -2,9 +2,13 @@
 
 Also known as The Grand Realm of Fenn Aries. [^4]
 
-The kingdom[^1] [^2] where the game takes place. Its ZIP code is 63022. [^3]
+The kingdom[^1] [^2] where the game takes place.
 
-Its sigil is probably this one based on [[Torn Book]]:
+There are several known locations:
+- location of [[Simon|Simon P. Jones]]'s dad: 63022. [^3]
+- [[The Estate|The Estate of Mount Holly]] is 63080 [^3]
+
+Its sigil is probably this one based on [[Realm & Rune (Incomplete)]]:
 Red
 Fog
 Martial

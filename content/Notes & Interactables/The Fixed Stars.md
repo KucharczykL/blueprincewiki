@@ -1,4 +1,4 @@
-A book by [[Richard Witt]], can be borrowed in [[Library]], or is available to read in [[Observatory]].
+A book by [[Richard Witt]], can be borrowed in [[Library]], or is available to read in [[Rooms/Observatory]].
 
 Published in [[Fenn Aries]] by [[Robert Bird & Sons|Bird & Sons Publishing]] in [[1809]].
 

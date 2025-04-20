@@ -1,4 +1,10 @@
-As described in [[Torn Book]].
+---
+aliases:
+  - Sigils
+---
+
+
+As described in [[Realm & Rune]].
 
 # Cores
 

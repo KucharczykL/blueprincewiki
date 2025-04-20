@@ -1,1 +1,3 @@
-A book by [[Caleb Manning]], can be borrowed in [[Library]].
+There are 2 versions available in the game:
+- [[History of Orindia (censored)]] from [[Library]]
+- [[History of Orindia (First Edition)]] from [[Bookshop]]

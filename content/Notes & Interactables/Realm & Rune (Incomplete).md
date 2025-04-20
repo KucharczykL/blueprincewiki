@@ -1,14 +1,16 @@
+The complete copy can be bought in [[Bookshop]].
+
 Foreman's Copy
 Do not remove from site.
 
 Realm & (MISSING)
-Sigils of the past and present
+[[Sigils]] of the past and present
 by
 Prof. [[R. Willard]]
 
 [[Fenn Aries]]
 [[Robert Bird & Sons]]
-1905
+[[1905]]
 
 ```
 --TION
