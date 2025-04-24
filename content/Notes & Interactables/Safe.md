@@ -10,3 +10,6 @@ There are several of them throughout the Estate:
 - [[Shelter]]
 	- no combination, this is a time-locked safe
 	- has [[Gem]] and [[Red Letter No. 7]]
+- [[Drafting Studio]] (0811 or 1108)
+	- probably based on the calendar's month (November) and the number of gates (8)
+	- has [[Red Letter No. 5]]

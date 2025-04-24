@@ -3,8 +3,13 @@
 # 1905
 - [[Realm & Rune]] was published by [[R. Willard]] under [[Robert Bird & Sons]]
 - 02 June  - [[Scripts & Rudford Mining Company]] are excavating in [[The Precipice]] [^2]
+# 1915
+ - 10 Decenmber - [[Scripts & Rudford Mining Company]] applied for a patent for a high pressure condender (boiler) [^20]
+# 1917
+- 15 May - [[Scripts & Rudford Mining Company]] excavation going smoothly, now using steam power to dig [^21]
 # 1918
 - 3 May - [[Scripts & Rudford Mining Company]] are closing the excavation for an unknown reason and burying the tunnels next month [^17]
+- 18 June - [[Scripts & Rudford Mining Company]] sealed the tunnel (refering to [[Sealed Entrance]]?) [^23]
 # 1951
 - [[Clara Epsen]] married [[Simon H. Sinclair]] [^1]
 # 1966
@@ -27,6 +32,7 @@
 - 21 Feb - [[Marion Marigold]] reported missing [^3]
 - June - her new book [[A New Clue]] has been published [^14]
 - 2 September - [[Ruby Crown of Orinda Aries]] stolen [^15] [^16]
+- 8 November - [[Marion Marigold]] leaves for the [[Southern Border]] [^22]
 # 1990
 - 05 July - somebody tried finding [[Room 46]] and noted in down in [[45 Rooms Note]]
 # 1993
@@ -57,3 +63,7 @@
 [^17]: [[Foreman's Log 608]]
 [^18]: [[West Wing Hall Staff Notice]]
 [^19]: [[Maid's Staff Notice]]
+[^20]: [[High Pressure Condenser Patent]]
+[^21]: [[Foreman's Log 289]]
+[^22]: [[Red Letter No. 5]]
+[^23]: [[Foreman's Log 621]]

@@ -25,6 +25,7 @@ The pieces can be found in these rooms:
 	- [[Bedroom]]
 	- [[Parlor]]
 	- [[Freezer]]
+	- [[Drafting Studio]]
 - King - [[Office]]
 - Horse
 	- [[Security]]
@@ -33,5 +34,7 @@ The pieces can be found in these rooms:
 	- [[Nook]]
 	- [[Vault]]
 	- [[Conservatory]]
+
+In the same room as the puzzle there is a cracked wall which can be broken using [[Power Hammer]] which reveals [[Castle Clue]].
 
 ![[2025-04-18-08-14-58.jpg]]

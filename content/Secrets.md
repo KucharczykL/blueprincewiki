@@ -18,9 +18,7 @@ tags:
 - who is [[Bridgette]]?
 	- must be one of the servants based on [[Anne Babbage]] giving her menial tasks
 - who is [[Daniel]]?
-- [ ] connect [[Boiler Room]] with [[Laboratory]]
 - [ ] connect [[Boiler Room]] with [[Pump Room]]
-- [ ] connect [[Boiler Room]] with [[Garage]]
 - [ ] connect [[Boiler Room]] with [[Laundry Room]]
 - [ ] connect [[Boiler Room]] with [[Furnace]]
 - [ ] connect [[Pump Room]] with [[The Pool]]
@@ -33,26 +31,29 @@ tags:
 - [ ] buy books from [[Bookshop]]:
 	- [ ] [[History of Orindia (First Edition)]]
 	- [ ] [[The Curse of Black Bridge]]
-	- [ ] [[Drafting Strategy Vol. 4]]
-	- [ ] [[Drafting Strategy Vol. 5]]
-	- [ ] [[A New Clue]]
+	- [x] [[Drafting Strategy - Architectural Digest Vol. 4]]
+	- [x] [[Drafting Strategy - Architectural Digest Vol. 5]]
+	- [x] [[A New Clue]]
 - [ ] how to unlock [[Her Ladyship's Diary]]
-- [ ] what's with the tunnel under [[The Grounds]]? seems like I should be able to light the torches
-- [ ] there's also a barricaded door near the terrace with braziers in [[The Grounds]]
+- [ ] what's with the tunnel under [[The Grounds]]?
+	- [x] torches lit using [[Burning Glass]]
+	- [ ] how to clean up the boxes?
 - [ ] there's another locked door in [[Private Drive]]
 - [ ] how to replace the statue of Orinda with the status of Rynna in [[Cloister]] as mentioned in [[Gardener's Logbook]]?
 - [ ] draft rooms:
-	- [ ] [[Closed Exhibit]]
+	- [x] [[Closed Exhibit]]
+		- [ ] place [[Closed Exhibit]] with its empty wall towards another room's door
 	- [ ] [[Secret Garden]] (perhaps need to use the key on a regular door? or something to do with [[Cloister]] because the center cannot be accessed normally)
 	- [ ] [[Mechanarium]]
 - [ ] solve the [[Chess Puzzle]]
+	- [ ] what does the [[Castle Clue]] mean?
 - [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
+	- [ ] probably leads to [[Underpass]]
 - [ ] solve the puzzle in [[Drawing Room]]
 - [ ] who wrote [[45 Rooms Note]]
 	- [ ] how does the note relate to the [[Billiard]] puzzle?
 - [ ] who is [[Kirk Darren]]?
 - [ ] how to access [[Reservoir]]
-	- [ ] from [[Vault]]?
 	- [ ] can I pump water out and access it from the fountain area?
 - [ ] is [[Clara Epsen]] the middle child of the [[Fourth King]] who gave her [[Eraja]]?
 - [ ] who was hiding in [[Shelter]] (as mentioned in [[Red Letter No. 7]])?
@@ -63,5 +64,12 @@ tags:
 - [ ] where is [[Sandy Heights]] mentioned in [[Hundred Bells Meeting Note]]? Is it even important?
 - [ ] how to open the 8 doors in [[Inner Sanctum]]?
 - [ ] in [[Utility Closet]] what is the Cabinet referring to? Can the switch be fixed or toggled some other way?
-- [ ] combine [[Broken Lever]] + [[Sledgehammer]] + [[Battery Pack]] in [[Workshop]]
-- [ ] thaw things in [[Freezer]]
+- [ ] thaw things in [[Freezer]] using [[Furnace]] or [[Burning Glass]] / break wall using [[Power Hammer]]
+- [ ] break a wall in [[Greenhouse]] using [[Power Hammer]]
+- [ ] open the red door near [[Underpass]]
+	- [ ] where did I see that door last time?
+- [ ] where are the other [[Microchip]]?
+	- [ ] where to plug it?
+- [ ] what is the password for the terminal in [[Blackbridge Grotto]]
+	- [ ] how is [[Blackbridge Grotto]] related to [[The Curse of Black Bridge]]?
+	- [ ] where does the door in [[Blackbridge Grotto]] lead?

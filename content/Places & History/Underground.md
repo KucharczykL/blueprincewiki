@@ -1,4 +1,8 @@
-Can be accessed via [[Tomb]]. Contains of:
+Can be accessed via:
+- [[Tomb]]
+- [[Sealed Entrance]]
+
+Parts:
 - [[Catacombs]]
 - [[Abandoned Mine]]
 - [[Reservoir]]
@@ -6,3 +10,4 @@ Can be accessed via [[Tomb]]. Contains of:
 - [[Foundation]]
 - [[Underpass]]
 - [[Inner Sanctum]]
+- [[Sealed Entrance]]

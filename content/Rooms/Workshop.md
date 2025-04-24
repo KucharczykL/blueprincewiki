@@ -5,6 +5,10 @@
 - [[True Box Note]]
 
 # Contraptions
-- [[Shovel]] + [[Broken Lever]] + ???
+- [[Shovel]] + [[Broken Lever]] + [[Sledgehammer]] = [[Power Hammer]]
+- [[Compass]] + [[Battery Pack]] = [[Electro Magnet]]
+- [[Magnifying Glass]] + [[Metal Detector]] = [[Burning Glass]]
+- [[Lockpick Kit]] + [[Metal Detector]] = [[Pick Sound Amplifier]]
+- [[Metal Detector]] + [[Shovel]] = [[Detector Shovel]]
 
 ![[2025-04-16-21-27-53.jpg]]
