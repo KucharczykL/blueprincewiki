@@ -6,3 +6,4 @@ A company:
 	- the safe that can be found in [[Boudoir]]
 	- the [ink](images/synka_ink.png) in [[Office]]
 	- the camera in [[Photo of Herbert, Selfie]]
+- their logo (shown during credits after reaching [[Room 46]]) looks like the three [[Microchip|Microchips]] in [[Blackbridge Grotto]]

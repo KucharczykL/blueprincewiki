@@ -1,0 +1,2 @@
+The door to this room is located behind the north [[Antechamber]] door, which can be opened in [[Inner Sanctum]]. To enter the antechamber itself, one of its west, south or east doors must be opened and room connected to it.
+After "entering" room 46, the [[Credits]] play and the current day ends.

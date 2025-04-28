@@ -1,4 +1,5 @@
 The next time you enter [[Boudoir]], gain 10 [[Steps]]. The next time you enter [[Walk-in Closet]], gain 3x [[Gem]].
+
 Only draftable in the [[West Wing]] from south-facing doors. [^1]
 
 # Notes

@@ -4,15 +4,18 @@ tags:
 
 
 - why did Marion split with her publisher?
+	- was in danger because she wanted to steal the [[Ruby Crown of Orinda Aries]] before leaving [[Fenn Aries]]?
 - who were the first two prominent authors who split from Ruffington Press?
 	- could be [[Caleb Manning]] 
 - how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the [[campside_tent.jpg]]?
 	- Simon probably just likes it as it's also about him?
 - who leaked the dossier naming [[Caleb Manning]] and [[Phillip White]]?
-- why/where did Marion disappear to?
-	- something happened to her during the heist to steal [[Ruby Crown of Orinda Aries]]?
+- [x] why/where did Marion disappear to?
+	- [x] something happened to her during the heist to steal [[Ruby Crown of Orinda Aries]]?
+		- she left on her own as described in [[Red Letter No. 5]]
+			- [ ] did she survive?
 	- what did she do that was praiseworthy (as said in [[Red Letter No. 4]])
-		- probably the aforementioned theft?
+		- probably the aforementioned theft of [[Ruby Crown of Orinda Aries]]?
 - who was arrested for criminal conspiracy as mentioned in [[Publisher and author detained by Red Guard, questioned]]
 - what is the deal with [[Ruffington]] and [[Reddington]]?
 - who is [[Bridgette]]?
@@ -26,6 +29,7 @@ tags:
 - what other places outside the house does [[Pump Room]] connect to?
 	- [[Reservoir]]?
 - what happened during the [[Trinsdale Lake]] bombing?
+	- distraction for the theft of [[Ruby Crown of Orinda Aries]]?
 - [ ] buy books from [[Bookshop]]:
 	- [ ] [[History of Orindia (First Edition)]]
 	- [ ] [[The Curse of Black Bridge]]
@@ -33,6 +37,7 @@ tags:
 	- [x] [[Drafting Strategy - Architectural Digest Vol. 5]]
 	- [x] [[A New Clue]]
 - [ ] how to unlock [[Her Ladyship's Diary]]
+	- [ ] there is a locket with the same logo on it on the night stand, related?
 - [ ] what's with the tunnel under [[The Grounds]]?
 	- [x] torches lit using [[Burning Glass]]
 	- [ ] how to clean up the boxes?
@@ -41,8 +46,12 @@ tags:
 - [ ] draft rooms:
 	- [x] [[Closed Exhibit]]
 		- [ ] place [[Closed Exhibit]] with its empty wall towards another room's door
-	- [ ] [[Secret Garden]] (perhaps need to use the key on a regular door? or something to do with [[Cloister]] because the center cannot be accessed normally)
 	- [ ] [[Mechanarium]]
+	- [ ] [[Vestibule]]
+	- [ ] [[Casino]]
+	- [ ] [[Trophy Room]]
+	- [ ] [[Tunnel]]
+	- [ ] all the [[Classroom]]
 - [ ] solve the [[Chess Puzzle]]
 	- [ ] what does the [[Castle Clue]] mean?
 - [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
@@ -62,7 +71,9 @@ tags:
 - [ ] where is [[Sandy Heights]] mentioned in [[Hundred Bells Meeting Note]]? Is it even important?
 - [ ] how to open the 8 doors in [[Inner Sanctum]]?
 - [ ] in [[Utility Closet]] what is the Cabinet referring to? Can the switch be fixed or toggled some other way?
-- [ ] thaw things in [[Freezer]] using [[Furnace]] or [[Burning Glass]] / break wall using [[Power Hammer]]
+- [ ] thaw things in [[Freezer]]
+	- [x] using [[Furnace]]
+	- [ ] using [[Burning Glass]] to access stuff in the chest freezer
 - [ ] break a wall in [[Greenhouse]] using [[Power Hammer]]
 - [ ] open the red door near [[Underpass]]
 	- [ ] where did I see that door last time?
@@ -72,3 +83,18 @@ tags:
 	- [ ] RevaD is deactivated - can it be activated?
 	- [ ] how is [[Blackbridge Grotto]] related to [[The Curse of Black Bridge]]?
 	- [ ] where does the door in [[Blackbridge Grotto]] lead?
+- [ ] where is the second set of [[Antechamber]] levers as mentioned in small text in [[Antechamber Controls Note]]?
+- [ ] clues with unknown meaning
+	- [ ] [[Does It Never End]]
+	- [ ] letter H in [[Workshop]] [^1]
+	- [ ] two blue and one red dog leashed in [[Kennel]]
+	- [ ] [[Cat Note]] (related to [[Castle Clue]])?
+	- [ ] statues in [[Basement]]
+		- [ ] beared guy in a hood pointing towards the basement entrance [^2]
+		- [ ] woman in fluffly dress [^3]
+- [ ] the [[Red Prince]], [[Red Prince (With Notes)]] and [[Credits]] point to there being twins (along with [[Nursery]] having 2 beds even though [[Marion Marigold|Mary Epsen]] only had 1 son that is mentioned)
+	- [ ] who was the other son's name?
+
+[^1]: [[2025-04-27-19-37-28.jpg]]
+[^2]: [[2025-04-20-16-13-01.jpg]]
+[^3]: [[2025-04-20-16-13-12.jpg]]

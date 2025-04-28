@@ -8,10 +8,10 @@ As described in [[Realm & Rune]]:
 
 # Cores
 
-- Orinda Aries
-- Fenn Aries
-- Eraja
+- Orinda Aries - blue
+- Fenn Aries - red
+- Eraja - purple based on [[Her Ladyship's Chamber]]?
 - Coraria
-- Arch Aries
+- Arch Aries - 
 
 ![[Pasted image 20250420233536.png]]

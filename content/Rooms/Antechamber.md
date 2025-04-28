@@ -9,6 +9,8 @@ One of the major goals of the game is reaching this room, which is at the top (r
 - north lever in [[Underground]] [^1] (specifically [[Inner Sanctum]])
 - west lever in [[Secret Garden]] [^1]
 
+According to the [[Antechamber Controls Note]], there is a second set of levers installed somewhere.
+
 The Antechamber does in fact lead to [[Room 46]], which is hidden behind the north door.
 
 # Items
