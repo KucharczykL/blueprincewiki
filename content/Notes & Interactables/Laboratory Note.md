@@ -1,4 +1,4 @@
-I typically work over at [[Synka|SYNKA]] labs but got sent over here for a month to assist [[Moore]] with the new turbine tests.
+I typically work over at [[Synka|SYNKA]] labs but got sent over here for a month to assist [[Randolph Moore|Moore]] with the new turbine tests.
 
 I think I need some help.
 

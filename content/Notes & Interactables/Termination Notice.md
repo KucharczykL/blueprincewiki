@@ -1,5 +1,5 @@
 Notice of Termination
-Dear [[Mr. Revane]],
+Dear [[Denny Revane|Mr. Revane]],
 your half-hearted dedication and maintenance of the grounds have been greatly appreciated. However, I regret to inform you that your services as the groundskeeper at [[Mount Holly]] will no longer be required, effectively immediately.
 
 This decision has been made after careful consideration and is based upon repeated observations and documented instances of neglect in the performance of your duties. The state of the green rooms in particular has deteriorated significantly over the last few months, which reflects poorly on the rest of the staff.

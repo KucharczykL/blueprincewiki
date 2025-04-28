@@ -1,6 +1,6 @@
 Special [[Floorplan|Floorplans]] now cost additonal [[Steps]] instead of [[Gem]].
 
-Belonged to [[Mr. Revane]].
+Belonged to [[Denny Revane|Mr. Revane]].
 
 # Interactable
 - [[Dig Spot]]

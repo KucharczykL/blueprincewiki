@@ -19,8 +19,6 @@ tags:
 	- must be one of the servants based on [[Anne Babbage]] giving her menial tasks
 - who is [[Daniel]]?
 - [ ] connect [[Boiler Room]] with [[Pump Room]]
-- [ ] connect [[Boiler Room]] with [[Laundry Room]]
-- [ ] connect [[Boiler Room]] with [[Furnace]]
 - [ ] connect [[Pump Room]] with [[The Pool]]
 - [ ] connect [[Pump Room]] with [[Aquarium]]
 - [ ] connect [[Pump Room]] with [[Kitchen]]
@@ -71,5 +69,6 @@ tags:
 - [ ] where are the other [[Microchip]]?
 	- [ ] where to plug it?
 - [ ] what is the password for the terminal in [[Blackbridge Grotto]]
+	- [ ] RevaD is deactivated - can it be activated?
 	- [ ] how is [[Blackbridge Grotto]] related to [[The Curse of Black Bridge]]?
 	- [ ] where does the door in [[Blackbridge Grotto]] lead?

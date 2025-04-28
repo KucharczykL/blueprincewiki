@@ -20,5 +20,10 @@ Can upgrade:
 		- +1 [[Key]] (total 2)
 		- +1 [[Gem]] (total 2)
 		- +9 [[Coin]] (total 10)
+- [[Freezer]]
+	- upgrade [[Closet]]
+		- bedroom - adjoining to bedroom-type room +2 items
+		- hallway - adjoining hallway +1 item
+		- red closet - empty unless adjoining red room in which case +4 items
 
 ![[floorplan_upgrade_disk.jpg]]
