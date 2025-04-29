@@ -76,11 +76,11 @@ know the place we are describing.
 Several exam\[MISSING\]
 from well k\[MISSING\]
 
-[PICTURE OF GEM-LIKE NARROW SHAPE] Orin\[MISSING\] (note: assuming [[Oris]] or [[Orindia]])
-[PICTURE OF PENTAGRAM] Fe\[MISSING\] (note: assuming [[Fenn]])
+[PICTURE OF GEM-LIKE NARROW SHAPE] Orin\[MISSING\] (note: assuming [[Orinda Aries]])
+[PICTURE OF PENTAGRAM] Fe\[MISSING\] (note: assuming [[Fenn Aries]])
 [PICTURE OF HOURGLASS] Er\[MISSING\] (note: assuming [[Eraja]])
 [PICTURE OF CHEVRON DOWN] Co\[MISSING\] (note: assuming [[Coraria]])
-[PICTURE OF MOUNTAIN] Ar\[MISSING\] (note: assuming [[Aries]])
+[PICTURE OF MOUNTAIN] Ar\[MISSING\] (note: assuming [[Arch Aries]])
 
 2. THE RAYS
 [PICTURE OF 6 LINES RADIATING FROM CENTER]

@@ -5,7 +5,7 @@ tags:
 
 A book that can be borrowed in [[Library]].
 
-Borrowed by [[Jean Ribbon]], [[Paul Withers]] and [[Simon|Simon P. Jones]].
+Borrowed by [[Marion Marigold|Jean Ribbon]], [[Paul Withers]] and [[Simon|Simon P. Jones]].
 
 ![[2025-04-20-15-46-43.jpg]]
 

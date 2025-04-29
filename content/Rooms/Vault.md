@@ -1,8 +1,13 @@
 Needs 3x [[Gem]] to draft.
 
 # Interactable
-- [[Deposit Box 370]]
-- [[Deposit Box 233]]
+- Deposit Boxes
+	- 233
+	- 304
+		- [[Floorplan Upgrade Disk]]
+		- 3x [[Gem]]
+		- [[Jean Ribbon Passport]]
+	- 307
 # Items
 - 40x [[Coin]]
 

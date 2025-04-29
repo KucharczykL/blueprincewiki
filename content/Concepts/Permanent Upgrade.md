@@ -1,3 +1,4 @@
+- [[West Gate Path]]
 - [[Gemstone Cavern]]
 - [[Apple Orchard]]
 - [[Blackbridge Grotto]] - via [[Lab Machine]]

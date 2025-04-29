@@ -1,0 +1,4 @@
+- [[Letter to Simon from Herbert (welcome)]] - at the start of the game - [[Mora Jai stamp]] (number 4)
+- [[Letter to Simon from dad]] - in [[Mail Room]] - [[Fenn Aries Stamp]]
+- [[Letter to Simon from Herbert (goodbye)]] - in [[Tomb]] - [[Orinda Aries Stamp]] (number 7)
+- [[Letter to Simon from Herbert (inheritance)]] - upon reaching [[Room 46]] - [[Nuance Stamp]] (number 1 or 10)

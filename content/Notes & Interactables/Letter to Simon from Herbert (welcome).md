@@ -11,7 +11,7 @@ With that said, there are a few ground rules of this commission covered in the f
 - NO TOOLS OR ITEMS MAY BE BROUGHT ONTO THE ESTATE FROM THE OUTSIDE
 - TOOLS & ITEMS FOUND ON THE ESTATE MAY NOT BE TAKEN OFF THE ESTATE
 - YOU MAY NOT STAY OVERNIGHT
-I don't suspect that any of these stipulations should prove an impediment for someone as resourceful as yourself but it is very imporant to me that you "start fresh" each morning and not rely on the successes of the previous day.
+I don't suspect that any of these stipulations should prove an impediment for someone as resourceful as yourself but it is very important to me that you "start fresh" each morning and not rely on the successes of the previous day.
 One final word of advice:
 
 Do not assume the rooms you find today will be the same rooms you find tomorrow. These grounds have provided me a home for the last half century and even I am uncertain of which room lies beyond any particular room.

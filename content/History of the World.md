@@ -3,7 +3,7 @@
 - most records gone, only trade agreements and sales receipts exist
 # Second Era
 - the fourth king split domain into three, giving each to one of his children:
-	- eldest - middle region - Orindia? - became [[Fenn Aries]] at the end of fifth era
+	- eldest - middle region - [[Orindia]] - became [[Fenn Aries]] at the end of fifth era
 	- middle child, daughter - southern region of  [[Eraja]]
 	- youngest, northern land of [[Arch Aries]]
 # Third Era

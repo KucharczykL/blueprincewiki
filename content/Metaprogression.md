@@ -1,0 +1,6 @@
+- [[Allowance]] - increases starting coins, can be acquired from unlocking [[Mora Jai Box]] or swapping [[Stars]] with [[Allowance]] in [[Laundry Room]] when it's connected to [[Boiler Room]]
+- changing rarity via [[Conservatory]] - unlocked by solving [[Music Sheet Puzzle]] 
+- [[West Gate Path]] - access to [[Outer Room]] and [[West Path]]
+- [[Apple Orchard]] +20 [[Steps]]
+- [[Gemstone Cavern]] +2 [[Gem|Gems]]
+- [[Blackbridge Grotto]] - access to undrafted terminal once per day

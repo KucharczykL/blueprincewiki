@@ -15,7 +15,7 @@ Martial
 Pentagonal Core
 
 ![[Pasted image 20250418092635.png]]
-
+![[Pasted image 20250428221344.png]]
 [^1]: [[Red Letter No. 4]]
 [^2]: [[Swim Bird author never considered herself success]]
 [^3]: [[Letter to Simon from dad]]

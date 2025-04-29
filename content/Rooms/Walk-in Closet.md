@@ -9,5 +9,7 @@
 - [[Coin Purse]]
 - 3x [[Gem]] (if drafted [[Her Ladyship's Chamber]] today)
 - [[Lucky Rabbit's Foot]]
+- Cupcake (+10 steps)
+- [[Deposit Box Key]] 
 
 ![[2025-04-17-22-44-06.jpg]]

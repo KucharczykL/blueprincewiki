@@ -5,7 +5,8 @@ import { debounce } from 'lodash-es'; // Using lodash for debounce
 
 // --- Project Specific Imports ---
 import {
-    ROWS, COLS, PREDEFINED_ROOMS, OUTER_ROOM_ID, ANTECHAMBER_ID, ENTRANCE_HALL_ID
+    ROWS, COLS, PREDEFINED_ROOMS, OUTER_ROOM_ID, ANTECHAMBER_ID, ENTRANCE_HALL_ID,
+    CELL_SIZE
 } from './constants'; // Adjust path if needed
 import { getCalendarDateForDay } from './utils/dateUtils'; // Adjust path if needed
 import RoomCell from './components/RoomCell'; // Adjust path if needed
@@ -570,7 +571,8 @@ function App() {
     }, [selectedCellId, roomData]);
 
     const sortedDaysForInfoPanel = useMemo(() => {
-        return selectedCellInfo?.days ? [...selectedCellInfo.days].sort((a, b) => a.day - b.day) : [];
+        // sort higher day to lower day
+        return selectedCellInfo?.days ? [...selectedCellInfo.days].sort((a, b) => b.day - a.day) : [];
     }, [selectedCellInfo]);
 
     const frequencyData = useMemo(() => {
@@ -606,13 +608,6 @@ function App() {
         // --- End frequency logic ---
     }, [selectedCellInfo, sortedDaysForInfoPanel]);
 
-    const addEditButtonText = useMemo(() => {
-        if (!selectedCellId) return 'Add/Edit Day';
-        // Use local currentDay
-        const isEditing = selectedCellInfo?.days?.some(d => d.day === currentDay);
-        return isEditing ? `Edit Day ${currentDay}` : `Add Day ${currentDay}`;
-    }, [selectedCellId, selectedCellInfo, currentDay]);
-
     const addEditButtonTitle = useMemo(() => {
         if (!selectedCellId) return 'Select a cell first';
         const isEditing = selectedCellInfo?.days?.some(d => d.day === currentDay);
@@ -641,7 +636,7 @@ function App() {
                     letterToDisplay = null;
                 } else if (cellId === ENTRANCE_HALL_ID) {
                     roomNameToDisplay = 'Entrance Hall';
-                    letterToDisplay = null;
+                    letterToDisplay = 'F';
                 } else if (entryForCurrentDay?.selected) {
                     roomNameToDisplay = entryForCurrentDay.selected;
                     const selectedRoom = PREDEFINED_ROOMS.find(room => room.name === roomNameToDisplay);
@@ -677,18 +672,25 @@ function App() {
         const cellData = roomData[OUTER_ROOM_ID] || { days: [], letter: null };
         let roomNameToDisplay = '';
         let roomColorName = null;
-        let letterToDisplay = cellData.letter || null;
+        let letterToDisplay = null;
         const entryForCurrentDay = cellData.days?.find(d => d.day === currentDay);
-         // --- Logic to determine roomNameToDisplay, roomColorName ---
-        if (entryForCurrentDay?.selected) { /* ... */ }
+
+        if (entryForCurrentDay?.selected) {
+            roomNameToDisplay = entryForCurrentDay.selected;
+            const selectedRoom = PREDEFINED_ROOMS.find(room => room.name === roomNameToDisplay);
+            roomColorName = selectedRoom?.color;
+            if (!selectedRoom) {
+                console.warn(`OuterRoom has selected room '${roomNameToDisplay}' for day ${currentDay} but no match found in PREDEFINED_ROOMS.`);
+                roomNameToDisplay = `? (${roomNameToDisplay})`;
+            }
+        }
 
         return (
             <RoomCell
                  // Pass calculated props
                  onClick={() => handleCellClick(OUTER_ROOM_ID)} // Use local handler
                  isSelectedInGrid={selectedCellId === OUTER_ROOM_ID} // Use local selectedCellId
-                 className="w-full"
-                 // ... other props ...
+                //  className="w-full"
                  roomName={roomNameToDisplay}
                  roomColor={roomColorName}
                  displayLetter={letterToDisplay}
@@ -749,7 +751,7 @@ function App() {
         <div className="flex flex-col md:flex-row min-h-screen bg-gray-100 font-sans">
             {/* Left Side */}
             <div className="flex-grow p-4 overflow-y-auto">
-                 <h1 className="text-2xl font-bold mb-4 text-center text-blue-800">Quartz Mansion Tracker</h1>
+                 <h1 className="text-2xl font-bold mb-4 text-center text-blue-800">Blue Prince Room Tracker</h1>
                 {/* Controls Row */}
                 <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-4 mb-4 p-2 bg-white rounded shadow">
                     {/* Day Navigation */}
@@ -800,89 +802,80 @@ function App() {
                     </div>
                 </div>
                 {/* Mansion Grid */}
-                <div
-                    id="mansion-grid"
-                    className="grid gap-1 mb-4 mx-auto w-max"
-                    style={{ gridTemplateColumns: `repeat(${COLS}, 70px)` }}
-                >
-                    {gridCells} {/* Rendered from local state */}
-                </div>
-                {/* Outer Room */}
-                <div className="mt-4 max-w-[370px] mx-auto">
-                    <h3 className="text-lg font-semibold mb-1 text-center">Outer Area</h3>
-                    {outerRoomCell} {/* Rendered from local state */}
+                <div className="flex flex-row place-items-end mx-auto w-max gap-5">
+                    <div
+                        id="mansion-grid"
+                        className="grid gap-1"
+                        style={{ gridTemplateColumns: `repeat(${COLS}, ${CELL_SIZE}px)` }}
+                    >
+                        {gridCells}
+                    </div>
+                    <span className="flex flex-col text-xs items-center">
+                        <h1>Outer Room</h1>
+                        {outerRoomCell}
+                    </span>
                 </div>
             </div>
 
             {/* Right Side Info Panel */}
             <div className="w-full md:w-1/3 lg:w-1/4 min-w-[300px] bg-white p-4 shadow-lg overflow-y-auto border-l border-gray-200 flex-shrink-0">
-                 <h2 className="text-xl font-semibold mb-3 border-b pb-2">Cell Information</h2>
+                 <span className="flex flex-row justify-between">
+                     <span className="text-xl font-semibold">Cell Information (<span id="selected-cell-id" className="text-blue-700 font-medium break-words">
+                                 {selectedCellId ? (selectedCellId === OUTER_ROOM_ID ? 'Outer Room' : selectedCellId) : 'None'}
+                            </span>)</span>
+                            <button
+                                id="add-day-button"
+                                onClick={handleOpenModal}
+                                disabled={!selectedCellId} // Disable based on local state
+                                className="px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded shadow disabled:bg-gray-400 disabled:cursor-not-allowed text-xs"
+                                title={addEditButtonTitle} // Derived from local state
+                            >
+                                Edit Current Day
+                            </button>
+                 </span>
                 <div id="cell-info">
-                    {/* Info Panel Content (uses derived state from useMemo, based on local state) */}
-                    <div className="mb-3">
-                        <strong className="block">Selected Cell:</strong>
-                        <span id="selected-cell-id" className="text-blue-700 font-medium break-words">
-                             {selectedCellId ? (selectedCellId === OUTER_ROOM_ID ? 'Outer Room' : selectedCellId) : 'None'}
-                             {selectedCellInfo?.letter ? ` [${selectedCellInfo.letter}]` : ''}
-                        </span>
-                    </div>
-                     <div className="mb-4">
-                        <button
-                            id="add-day-button"
-                            onClick={handleOpenModal}
-                            disabled={!selectedCellId} // Disable based on local state
-                            className="w-full px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded shadow disabled:bg-gray-400 disabled:cursor-not-allowed"
-                            title={addEditButtonTitle} // Derived from local state
-                        >
-                            {addEditButtonText} {/* Derived from local state */}
-                        </button>
-                    </div>
                     <div className="mb-3">
                         <strong>Logged Days:</strong> <span id="day-count">{selectedCellInfo?.days?.length ?? 0}</span>
                     </div>
 
                     {/* Day List */}
-                    <div className="mb-4 max-h-96 overflow-y-auto border rounded p-2 bg-gray-50">
-                        <h4 className="font-semibold text-sm mb-1">Day Details:</h4>
-                        <ul id="day-list" className="list-none pl-0 text-sm space-y-4">
+                    <div className="mb-4 max-h-96 overflow-y-auto border border-gray-200">
+                        <ul id="day-list" className="list-none divide-y-1 divide-gray-100">
                             {sortedDaysForInfoPanel.length > 0 ? (
                                 sortedDaysForInfoPanel.map(dayEntry => (
-                                    <li key={dayEntry.day} className={`border-b pb-2 last:border-b-0 ${dayEntry.day === currentDay ? 'bg-yellow-100 rounded px-1 -mx-1' : ''}`}>
-                                        <div className="flex justify-between items-center mb-1">
-                                            <strong className="text-xs">Day {dayEntry.day}</strong>
+                                    <li key={dayEntry.day} className={`px-6 py-2 ${dayEntry.day === currentDay ? 'bg-yellow-100' : ''}`}>
+                                        {/* <div className="flex justify-between items-center mb-1 text-xs">
                                             <button
                                                 onClick={() => handleDeleteDay(selectedCellId, dayEntry.day)}
-                                                className="text-red-500 hover:text-red-700 text-xs px-1"
+                                                className="text-red-500 hover:text-red-700"
                                                 title={`Delete Day ${dayEntry.day}`}
                                             >
                                                 ❌
                                             </button>
-                                        </div>
-                                        <div className="text-xs mb-2">
-                                            <span className="font-medium block mb-1">Offered:</span>
-                                            {dayEntry.offered && dayEntry.offered.length > 0 ? (
-                                                <div className="flex flex-wrap gap-1 ml-1"> {/* Reduced gap */}
-                                                    {dayEntry.offered.map(offerName => {
-                                                        const room = PREDEFINED_ROOMS.find(r => r.name === offerName);
-                                                        return (
-                                                            <RoomCell
-                                                                key={offerName}
-                                                                roomName={offerName}
-                                                                roomColor={room?.color}
-                                                                isSelectable={false}
-                                                                className={`transform scale-75 origin-top-left ${dayEntry.selected === offerName ? 'ring-2 ring-green-500 ring-offset-1' : ''}`} // Scaled down
-                                                                title={offerName}
-                                                            />
-                                                        );
-                                                    })}
+                                        </div> */}
+                                        <div className="flex flex-row">
+                                            <strong class="transform -rotate-90">{dayEntry.day}</strong>
+                                                <div id="entries">
+                                                    {dayEntry.offered && dayEntry.offered.length > 0 ? (
+                                                        <div className="flex flex-wrap gap-2">
+                                                            {dayEntry.offered.map(offerName => {
+                                                                const room = PREDEFINED_ROOMS.find(r => r.name === offerName);
+                                                                return (
+                                                                    <RoomCell
+                                                                        key={offerName}
+                                                                        roomName={offerName}
+                                                                        roomColor={room?.color}
+                                                                        isSelectable={false}
+                                                                        className={`!w-15 !h-15 !text-xs !break-all ${dayEntry.selected === offerName ? 'ring-2 ring-green-500 ring-offset-2' : ''}`}
+                                                                        title={offerName}
+                                                                    />
+                                                                );
+                                                            })}
+                                                        </div>
+                                                    ) : (
+                                                        <span className="text-gray-500 italic ml-1">None</span>
+                                                    )}
                                                 </div>
-                                            ) : (
-                                                <span className="text-gray-500 italic ml-1">None</span>
-                                            )}
-                                        </div>
-                                        <div className="text-xs mt-1">
-                                            <span className="font-medium">Selected:</span>
-                                            <span className="ml-1 font-semibold">{dayEntry.selected || 'None'}</span>
                                         </div>
                                     </li>
                                 ))
@@ -894,7 +887,7 @@ function App() {
 
                     {/* Frequency List */}
                     <div className="max-h-96 overflow-y-auto">
-                        <h4 className="font-semibold text-sm mb-1">Offer Frequency:</h4>
+                        <h4 className="font-semibold text-sm mb-1">Frequencies:</h4>
                         <ul id="frequency-list" className="list-none pl-0 text-sm space-y-2">
                             {frequencyData && frequencyData.totalOffers > 0 ? (
                                 frequencyData.sortedRooms.map(item => (

@@ -81,20 +81,28 @@ tags:
 	- [ ] where to plug it?
 - [ ] what is the password for the terminal in [[Blackbridge Grotto]]
 	- [ ] RevaD is deactivated - can it be activated?
+		- [ ] are all the homonyms in the game also of use here?
 	- [ ] how is [[Blackbridge Grotto]] related to [[The Curse of Black Bridge]]?
 	- [ ] where does the door in [[Blackbridge Grotto]] lead?
 - [ ] where is the second set of [[Antechamber]] levers as mentioned in small text in [[Antechamber Controls Note]]?
 - [ ] clues with unknown meaning
 	- [ ] [[Does It Never End]]
 	- [ ] letter H in [[Workshop]] [^1]
-	- [ ] two blue and one red dog leashed in [[Kennel]]
+	- [ ] two blue and one red dog leashes in [[Kennel]]
 	- [ ] [[Cat Note]] (related to [[Castle Clue]])?
 	- [ ] statues in [[Basement]]
 		- [ ] beared guy in a hood pointing towards the basement entrance [^2]
 		- [ ] woman in fluffly dress [^3]
+	- [ ] the eighth angel points to our dreams (from [[Underground Map Piece 3]])
 - [ ] the [[Red Prince]], [[Red Prince (With Notes)]] and [[Credits]] point to there being twins (along with [[Nursery]] having 2 beds even though [[Marion Marigold|Mary Epsen]] only had 1 son that is mentioned)
 	- [ ] who was the other son's name?
+- [ ] who is [[Je Ari Yenna]]?
+- [ ] who is [[Count Isaac Gates]]?
+- [ ] who is [[Major Nicolas Key IV]]?
+- [ ] what does "Do not make allowances, 1846" refer to? [^4]
+- [ ] what is the secret of room 8 ([[Ballroom]]) in rank 8?
 
 [^1]: [[2025-04-27-19-37-28.jpg]]
 [^2]: [[2025-04-20-16-13-01.jpg]]
 [^3]: [[2025-04-20-16-13-12.jpg]]
+[^4]: [[Allowance Token]]

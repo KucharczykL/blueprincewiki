@@ -1,5 +1,7 @@
 # 1809
 - [[The Fixed Stars]] was published by [[Richard Witt]] under [[Robert Bird & Sons|Bird & Sons Publishing]]
+# 1846
+- [[Allowance Token]] mentions "Do not make allowances" with the year on it
 # 1905
 - [[Realm & Rune]] was published by [[R. Willard]] under [[Robert Bird & Sons]]
 - 02 June  - [[Scripts & Rudford Mining Company]] are excavating in [[The Precipice]] [^2]
@@ -12,11 +14,15 @@
 - 18 June - [[Scripts & Rudford Mining Company]] sealed the tunnel (refering to [[Sealed Entrance]]?) [^23]
 # 1951
 - [[Clara Epsen]] married [[Simon H. Sinclair]] [^1]
+
+# 1952
+- [[Clara Epsen]] and [[Simon H. Sinclair]] were at a ball in [[Inneclipse]] [^25]
+# 1956
+- 9 September - [[Marion Marigold|Mary Jones]] is born [^24]
 # 1966
 - the schoolhouse at [[The Estate]] was closed [^1]
 # 1979
 - [[Caleb Manning]] published [[History of Orindia (censored)]] under [[Ruffington Red Publishing]]
-
 # 1983
 - June 15 - [[Clara Epsen]] died shortly before this [^18]
 # 1985
@@ -67,3 +73,5 @@
 [^21]: [[Foreman's Log 289]]
 [^22]: [[Red Letter No. 5]]
 [^23]: [[Foreman's Log 621]]
+[^24]: [[Jean Ribbon Passport]]
+[^25]: [[Photo of Clara and Simon]]

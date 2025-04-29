@@ -4,7 +4,9 @@ tags:
   - 4exits
 ---
 One of the major goals of the game is reaching this room, which is at the top (rank 10) of [[The Estate]]. All sides are closed and need to be opened using one of these levers:
-- south lever in [[Greenhouse]]
+- south lever
+	- [[Greenhouse]] (requires [[Broken Lever]])
+	- [[Weight Room]] (requires [[Power Hammer]])
 - east lever in [[Great Hall]]
 - north lever in [[Underground]] [^1] (specifically [[Inner Sanctum]])
 - west lever in [[Secret Garden]] [^1]

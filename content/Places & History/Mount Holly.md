@@ -1,1 +1,1 @@
-A place in [[Fenn Aries]] where [[The Estate]] is located.
+A place in [[Fenn Aries]], both a mountain and and nickname for [[The Estate]].

@@ -6,19 +6,20 @@ who sat on a red throne.
 He had a red crown made of rubies,
 and a red castle made of stone.
 
-*The prince had a love for all things red,*
-*it's the only true color*
-*the prince often said.*
+The prince had a love,
+For all things red.
+"It's the only *true* color"
+The prince often said.
 
-He could not stand the sight
-of a canary or a crow.
+He could not stand the sight,
+Of a canary or a crow.
 He could not stand the white,
-of a swan in the snow.
+Of a swan in the snow.
 
-*And he never looked up*
-*for fear of the view.*
-*He had heard that the sky*
-*was not a red hue.*
+And he never looked up...
+For fear of the view.
+He had heard that the sky,
+Was not a red hue!
 
 *He didn't see the birds*
 *or the changing of the leaves*

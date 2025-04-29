@@ -29,12 +29,12 @@ export     const PREDEFINED_ROOMS = [
     { name: "Pantry", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 21 }] },
     { name: "Rumpus Room", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 22 }] },
     { name: "Vault", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 23 }] },
-    { name: "Office", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 24 }] },
+    { name: "Office", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 24, gems: 2 }] },
     { name: "Drawing Room", color: "blue", exit_no: 3, rarity: "common", extra_data: [{ number: 25 }] },
     { name: "Study", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 26 }] },
     { name: "Library", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 27 }] },
     { name: "Chamber of Mirrors", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 28 }] },
-    { name: "The Pool", color: "blue", exit_no: 3, rarity: "common", extra_data: [{ number: 29 }] },
+    { name: "The Pool", color: "blue", exit_no: 3, rarity: "standard", extra_data: [{ number: 29, gems: 1 }] },
     { name: "Utility Closet", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 31 }] },
     { name: "Boiler Room", color: "blue", exit_no: 3, rarity: "common", extra_data: [{ number: 32 }] },
     { name: "Pump Room", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 33 }] },
@@ -45,7 +45,7 @@ export     const PREDEFINED_ROOMS = [
     { name: "Coat Check", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 38 }] },
     { name: "Mail Room", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 39 }] },
     { name: "Dining Room", color: "blue", exit_no: 3, rarity: "common", extra_data: [{ number: 41 }] },
-    { name: "Observatory", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 42 }] },
+    { name: "Observatory", color: "blue", exit_no: 1, rarity: "common", extra_data: [{ number: 42, gems: 1 }] },
     { name: "Conference Room", color: "blue", exit_no: 3, rarity: "common", extra_data: [{ number: 43 }] },
     { name: "Aquarium", color: "blue", exit_no: 3, rarity: "common", extra_data: [{ number: 44 }] },
     { name: "Bedroom", color: "purple", exit_no: 1, rarity: "common", extra_data: [] },
@@ -104,12 +104,18 @@ export     const PREDEFINED_ROOMS = [
     { name: "Rotunda", color: "blue", exit_no: 2, rarity: "rare", extra_data: []},
     { name: "Tunnel", color: "orange", exit_no: 2, rarity: "rare", extra_data: []},
     { name: "Drafting Studio", color: "blue", exit_no: 2, rarity: "rare", extra_data: [{gems: 2}]},
-    { name: "Trophy Room", color: "blue", exit_no: 2, rarity: "rare", extra_data: [{gems: 5}]},
+    { name: "Trophy Room", color: "blue", exit_no: 2, rarity: "rare", extra_data: [{gems: 5, rewards: {gems: 8}}]},
+    { name: "Vestibule", color: "orange", exit_no: 4, rarity: "rare", extra_data: [{gems: 2}]},
+    { name: "Casino", color: "yellow", exit_no: 2, rarity: "rare", extra_data: [{gems: 2}]},
+    { name: "Kennel", color: "blue", exit_no: 2, rarity: "rare", extra_data: []},
+    { name: "Armory", color: "blue", exit_no: 2, rarity: "rare", extra_data: []},
+    { name: "Throne Room", color: "blue", exit_no: 2, rarity: "rare", extra_data: []},
 ];
 
 export const ROWS = 9;
 export const COLS = 5;
+export const CELL_SIZE = 80;
 export const START_DATE = new Date(1993, 10, 7); // November is month 10 (0-indexed)
 export const OUTER_ROOM_ID = "OuterRoom";
-export const ANTECHAMBER_ID = `R${ROWS}C${Math.ceil(COLS / 2)}`;
-export const ENTRANCE_HALL_ID = `R1C${Math.ceil(COLS / 2)}`;
+export const ANTECHAMBER_ID = `R9C3`;
+export const ENTRANCE_HALL_ID = `R1C3`;

@@ -25,5 +25,10 @@ Can upgrade:
 		- bedroom - adjoining to bedroom-type room +2 items
 		- hallway - adjoining hallway +1 item
 		- red closet - empty unless adjoining red room in which case +4 items
+- [[Vault]] (deposit box 304)
+	- upgrade [[Courtyard]]
+		- +2 [[Gem]]
+		- 5 [[Dig Spot]]
+		- always unlocked
 
 ![[floorplan_upgrade_disk.jpg]]

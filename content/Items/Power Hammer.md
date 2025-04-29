@@ -5,3 +5,7 @@ A stronger [[Sledgehammer]] that can also knock down weaker brick walls.
 Can be used on walls in:
 - [[The Precipice]] near the [[Chess Puzzle]]
 - near the elevator to the [[The Precipice]] to unlock a shortcut to [[Basement]] via [[Sealed Entrance]]
+- [[Weight Room]]
+- [[Freezer]]
+- [[Secret Garden]]
+- [[Greenhouse]]
