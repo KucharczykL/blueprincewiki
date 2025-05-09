@@ -6,7 +6,7 @@ tags:
 A room that is only draftable at the [[West Path]].
 
 # Tradeable Items
-- [[Vault Key 370]]
+- [[Deposit Box Key]]
 - [[Compass]]
 - [[Shovel]]
 - [[Key]]

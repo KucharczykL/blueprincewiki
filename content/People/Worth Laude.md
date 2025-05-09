@@ -1,0 +1,1 @@
+A widow after one of the people who worked for [[Baron Tomas Sinclair]] between 1915-1918 in uncovering the [[Underground]] part of Mt. Holly Estate. She sent [[Herbert S. Sinclair]] a [[Red Letter No. 1|blackmail letter]].

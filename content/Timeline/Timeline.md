@@ -6,8 +6,11 @@
 - [[Realm & Rune]] was published by [[R. Willard]] under [[Robert Bird & Sons]]
 - 02 June  - [[Scripts & Rudford Mining Company]] are excavating in [[The Precipice]] [^2]
 # 1915
- - 10 Decenmber - [[Scripts & Rudford Mining Company]] applied for a patent for a high pressure condender (boiler) [^20]
+ - 10 Decenmber - [[Scripts & Rudford Mining Company]] applied for a patent for a high pressure condenser (boiler) [^20]
+# 1916
+- 13 January - [[Scripts & Rudford Mining Company]] uncovered an [[Orindia|Orindian]] building underneath [[The Estate]] [^26]
 # 1917
+- 1 March - [[Scripts & Rudford Mining Company]] flooded [[Reservoir]], and with it [[old station]] [^27]
 - 15 May - [[Scripts & Rudford Mining Company]] excavation going smoothly, now using steam power to dig [^21]
 # 1918
 - 3 May - [[Scripts & Rudford Mining Company]] are closing the excavation for an unknown reason and burying the tunnels next month [^17]
@@ -26,15 +29,20 @@
 # 1983
 - June 15 - [[Clara Epsen]] died shortly before this [^18]
 # 1985
+- at some point in 1985 or earlier, [[Marion Marigold]] wanted to publish [[Red Prince]] with [[Ruffington Red Publishing]] but was rejected due to it being too political [^28]
 - [[Marion Marigold]] published [[Swim Bird]] under [[Ruffington Red Publishing]]
 - 22 August - [[Marion Marigold]] wins literary award for [[Swim Bird]] [^4]
 # 1986
 - [[Simon|Simon P. Jones]] was at [[The Estate|The Estate of Mount Holly]] during summer [^7]
 - 27 January - [[Swim Bird author never considered herself success]]
+- 5 November - [[Anne Babbage]] asks [[Kirk Darren]] about memos for [[Clock Tower]] for "a new project"
 - 11 November - [[Caleb Manning]] and [[Phillip White]] detained by [[Red Guard]] as suspects in bombing in [[Trinsdale Lake]] [^5]
 - 17 November - [[Marion Marigold]] splits from [[Ruffington Press]] for personal reasons [^6]
 - 8 December - [[Caleb Manning]] pens [[Red Letter No. 2]] talking about trial runs for the [[Royal Museum]] heist to steal [[Ruby Crown of Orinda Aries]] along with [[Marion Marigold|Mary Epsen]]
 # 1987
+- 24 January - [[Kirk Darren]] mails [[Anne Babbage]] about installing new south [[Antechamber]] lever and concealing the one in [[Weight Room]]
+- 4 February - [[Anne Babbage]] replies to [[Kirk Darren]] and confirms [[Herbert S. Sinclair]] wants to install a secondary set of [[Antechamber]] levers
+- 10 February - [[Randolph Moore]] sends [[Kirk Darren]] a mail about stopping recording throughout [[The Estate]] but leaving cameras on because of the impending [[Red Guard]] inspection
 - 21 Feb - [[Marion Marigold]] reported missing [^3]
 - June - her new book [[A New Clue]] has been published [^14]
 - 2 September - [[Ruby Crown of Orinda Aries]] stolen [^15] [^16]
@@ -75,3 +83,6 @@
 [^23]: [[Foreman's Log 621]]
 [^24]: [[Jean Ribbon Passport]]
 [^25]: [[Photo of Clara and Simon]]
+[^26]: [[Foreman's Log 102]]
+[^27]: [[Foreman's Log 228]]
+[^28]: [[Ruffinton Response to Red Prince]]

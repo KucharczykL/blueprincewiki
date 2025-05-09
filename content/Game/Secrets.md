@@ -1,0 +1,100 @@
+---
+tags:
+---
+
+
+- who were the first two prominent authors who split from Ruffington Press?
+	- could be [[Caleb Manning]] 
+- how is [[Swim Bird]] related to [[swimbird_1.jpg]] and the [[campside_tent.jpg]]?
+	- Simon probably just likes it as it's also about him?
+- who leaked the dossier naming [[Caleb Manning]] and [[Phillip White]]?
+- [x] why/where did Marion disappear to?
+	- [ ] she left on her own as described in [[Red Letter No. 5]]
+	- why did Marion split with her publisher?
+		- was in danger because she wanted to steal the [[Ruby Crown of Orinda Aries]] before leaving [[Fenn Aries]]?
+			- [ ] did she survive?
+	- what did she do that was praiseworthy (as said in [[Red Letter No. 4]])
+		- probably the aforementioned theft of [[Ruby Crown of Orinda Aries]]?
+- who was arrested for criminal conspiracy as mentioned in [[Publisher and author detained by Red Guard, questioned]]
+- what is the deal with [[Ruffington]] and [[Reddington]]?
+- who is [[Bridgette]]?
+	- must be one of the servants based on [[Anne Babbage]] giving her menial tasks
+- [ ] pump out [[The Pool]]
+- [ ] pump out [[Aquarium]]
+- [ ] find out if no water or full water is desirable in [[Greenhouse]]
+- what happened during the [[Trinsdale Lake]] bombing?
+	- distraction for the theft of [[Ruby Crown of Orinda Aries]]?
+- [ ] buy books from [[Bookshop]]:
+	- [ ] [[History of Orindia (First Edition)]]
+	- [ ] [[The Curse of Black Bridge]]
+- [ ] how to unlock [[Her Ladyship's Diary]]
+	- [ ] there is a locket with the same logo on it on the night stand, related?
+- [ ] what's with the tunnel under [[The Grounds]]?
+	- [x] torches lit using [[Burning Glass]]
+	- [ ] how to clean up the boxes?
+- [ ] there's another locked door in [[Private Drive]]
+- [ ] how to replace the statue of [[Orinda]] with the status of Rynna in [[Cloister]] as mentioned in [[Gardener's Logbook]]?
+- [ ] draft rooms:
+	- [x] [[Closed Exhibit]]
+		- [ ] place [[Closed Exhibit]] with its empty wall towards another room's door
+	- [ ] [[Mechanarium]]
+	- [ ] [[Vestibule]]
+	- [ ] [[Casino]]
+	- [ ] [[Tunnel]]
+	- [ ] all the [[Classroom]]
+	- [ ] [[Treasure Trove]]
+- [ ] open door in [[The Precipice]], see [[2025-04-18-08-40-31.jpg]]
+	- [ ] probably leads to [[Underpass]]
+- [ ] solve the puzzle in [[Drawing Room]]
+- [ ] who wrote [[45 Rooms Note]]
+	- [ ] how does the note relate to the [[Billiard]] puzzle?
+- [ ] how to access [[Reservoir]]
+	- [ ] can I pump water out and access it from the fountain area?
+- [ ] is [[Clara Epsen]] the middle child of the [[Fourth King]] who gave her [[Eraja]]?
+- [ ] who was hiding in [[Shelter]] (as mentioned in [[Red Letter No. 7]])?
+	- [ ] perhaps these three? after they were investigated earlier by [[Red Guard]]
+	- [ ] [[Marion Marigold]] [^5]
+	- [ ] [[Caleb Manning]]
+	- [ ] [[Phillip White]] [^5]
+- [ ] where is [[Sandy Heights]] mentioned in [[Hundred Bells Meeting Note]]? Is it even important?
+- [ ] how to open the 8 doors in [[Inner Sanctum]]?
+- [ ] in [[Utility Closet]] what is the Cabinet referring to? Can the switch be fixed or toggled some other way?
+- [ ] thaw things in [[Freezer]]
+	- [x] using [[Furnace]]
+	- [ ] using [[Burning Glass]] to access stuff in the chest freezer
+- [ ] break a wall in [[Greenhouse]] using [[Power Hammer]]
+- [ ] open the red door near [[Underpass]]
+	- [ ] where did I see that door last time?
+- [ ] where are the other [[Microchip]]?
+	- [ ] where to plug it?
+- [ ] what is the password for the terminal in [[Blackbridge Grotto]]
+	- [ ] RevaD is deactivated - can it be activated?
+		- [ ] are all the homonyms in the game also of use here?
+	- [ ] how is [[Blackbridge Grotto]] related to [[The Curse of Black Bridge]]?
+	- [ ] where does the door in [[Blackbridge Grotto]] lead?
+- [ ] where is the second set of [[Antechamber]] levers as mentioned in small text in [[Antechamber Controls Note]]?
+- [ ] clues with unknown meaning
+	- [ ] [[Does It Never End]]
+	- [ ] two blue and one red dog leashes in [[Kennel]]
+	- [ ] [[Cat Note]]
+		- [ ] what does the [[Castle Clue]] mean and is it related?
+	- [ ] statues in [[Basement]]
+		- [ ] beared guy in a hood pointing towards the basement entrance [^2]
+		- [ ] woman in fluffy dress [^3]
+	- [ ] the eighth angel points to our dreams (from [[Underground Map Piece 3]])
+	- [ ] what does "Do not make allowances, 1846" refer to? [^4]
+	- [ ] [[IIOO note]] in [[Blackbridge Grotto]]
+- [ ] the [[Red Prince]], [[Red Prince (With Notes)]] and [[Credits]] point to there being twins (along with [[Nursery]] having 2 beds even though [[Marion Marigold|Mary Epsen]] only had 1 son that is mentioned)
+	- [ ] who was the other son's name?
+- [ ] who is [[Daniel]]?
+- [ ] who is [[Kirk Darren]]?
+- [ ] who is [[Je Ari Yenna]]?
+- [ ] who is [[Count Isaac Gates]]?
+- [ ] who is [[Major Nicolas Key IV]]?
+- [ ] what is the secret of room 8 ([[Ballroom]]) in rank 8?
+- [ ] who is the statue on the east side of [[The Estate]] representing? [[Pasted image 20250430104505.png]]
+
+[^2]: [[2025-04-20-16-13-01.jpg]]
+[^3]: [[2025-04-20-16-13-12.jpg]]
+[^4]: [[Allowance Token]]
+[^5]: Mentioned in the logs of the [[Blackbridge Grotto]] terminal.

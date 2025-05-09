@@ -1,5 +1,4 @@
-On the table there is a letter H chisel into stone.
-
+On the table there is a letter chiseled in stone that is an easy way to check the correctness for [[Two Paintings Puzzle]].
 # Items
 - [[Lockpick Kit]]
 - [[Broken Lever]]
@@ -13,13 +12,13 @@ There are 8 in total. [^1]
 | Item                 | Combinations | Combines With                                                                                                                 | Combinations Missing |
 | -------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | [[Battery Pack]]     | 3            | + [[Compass]] = [[Electro Magnet]], + [[Sledgehammer]] + [[Broken Lever]] = [[Power Hammer]]                                  | 1                    |
-| [[Shovel]]           | 3            | + [[Metal Detector]] = [[Detector Shovel]]                                                                                    | 2                    |
+| [[Shovel]]           | 3            | + [[Metal Detector]] = [[Detector Shovel]], + [[Compass]] = [[Dowsing Rod]]                                                   | 1                    |
 | [[Metal Detector]]   | 3            | + [[Shovel]] = [[Detector Shovel]], + [[Magnifying Glass]] = [[Burning Glass]], + [[Lockpick Kit]] = [[Pick Sound Amplifier]] | 0                    |
 | [[Broken Lever]]     | 2            | + [[Metal Detector]] + [[Sledgehammer]] = [[Power Hammer]]                                                                    | 1                    |
 | [[Compass]]          | 2            | + [[Battery Pack]] = [[Electro Magnet]]                                                                                       | 1                    |
 | [[Sledgehammer]]     | 1            | + [[Broken Lever]] + [[Battery Pack]] = [[Power Hammer]]                                                                      | 0                    |
 | [[Lockpick Kit]]     | 1            | + [[Metal Detector]] = [[Pick Sound Amplifier]]                                                                               | 0                    |
-| [[Coin Purse]]       | 1            |                                                                                                                               | 0                    |
+| [[Coin Purse]]       | 1            | + [[Lucky Rabbit's Foot]] = [[Lucky Purse]]                                                                                   | 0                    |
 | [[Magnifying Glass]] | 1            | + [[Metal Detector]] = [[Burning Glass]]                                                                                      | 0                    |
 | ????                 | 1            |                                                                                                                               |                      |
 

@@ -1,0 +1,1 @@
+An unknown person or group that stoles [[Puzzles/Red Letters|Red Letters]] and blackmailed [[Herbert S. Sinclair]] in exchange for money.

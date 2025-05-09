@@ -1,4 +1,4 @@
-A #blue room that appears near R5. It costs 2x [[gem]]. It has a [[spread]] [[Coin]] modifier.
+A #blue room that appears near R5. It costs 2x [[Gem]]. It has a [[spread]] [[Coin]] modifier.
 
 # Interactable
 - [[Terminal]]

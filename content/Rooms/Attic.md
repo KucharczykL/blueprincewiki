@@ -2,6 +2,7 @@
 - [[Trunk]]
 - [[Photo of Tomas, Herbert and Simon]]
 - Photo of older [[Baroness Auravei]] wearing  the [[Crescent Locket]]
+- [[Ruffinton Response to Red Prince]]
 
 # Items
 - [[Gem]]

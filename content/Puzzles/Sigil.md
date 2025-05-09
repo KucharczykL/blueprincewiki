@@ -34,22 +34,28 @@ There are 3 cores missing (maybe they didn't exist in 1905):
 - camels
 - turtleback
 # 3. Motes
-- metropolitan - Orindia
+- metropolitan - Orindia [^1]
 # 4. Borders
-- alternating big and small dots (black)
+- alternating big and small dots (black) - Orinda Aries
 - lightning bolt (red) - Fenn Aries
 - alternating horizontal and vertical lines (violet) - Eraja
 - square wave (pink) - 
 - straight lines (green) - Nuance
 - sawtooth line (yellow)
-- triangles (orange)
+- triangles (orange) - Corarica
 - empty dots (white)
 - blue - not in [[Realm & Rune]] but the stamp of [[Mora Jai]] is blue
 
 # Complete Sigils
 ## Fenn Aries
+red, martial, foggy, carriages
 This colored one is a bit different than the one in [[Realm & Rune]]: the motes are sometime upside down, the rays have three lines instead of two, and the core is three pentagons instead of one.
 ![[Pasted image 20250428221344.png]]
+## Orinda Aries
+black, metropolitan, foggy, trains
+![[Pasted image 20250429131738.png]]
+## Coracica
+chevron, orange, 
 ## ???
 See [[unknown sigil]].
 ![[Pasted image 20250428223519.png]]

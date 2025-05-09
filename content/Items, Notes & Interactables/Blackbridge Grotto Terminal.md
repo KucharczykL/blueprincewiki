@@ -1,0 +1,24 @@
+- must be logged into:
+		- listed users:
+			- [[Randolph Moore|MoorR]] (admin)
+			- [[Kimberly Thompson|ThomK]] (admin)
+			- [[Anne Babbage|BabbA]] (personal access)
+			- [[Hartley Ruota|RuotH]] (expired)
+			- [[Denny Revane|RevaD]] (expired)
+		- unlisted:
+			- [[Marion Marigold|RibbJ]] (archive + admin)
+			- [[Phillip White|WithP]] (archive + admin)
+		- 3 delisted admin keys
+
+# Features
+- Network Settings - set how long until online terminals go offline: immediate, day, week, month
+- User Database
+	- lists all users except for RibbJ and WithP
+- Admin Logs
+	- needs archive access to read deleted logs
+- Data Files
+	- Import Trophy Data
+	- Duplicate Save Data
+	- Clear Save Data
+	- Create Backup
+	- Restore from Backup
